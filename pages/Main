@@ -1,0 +1,26 @@
+
+
+asdf *asdfsadf
+
+[{example}]
+
+[{blabla}]
+
+!Heading
+!!Heading2
+!!!Heading3
+
+**bold text**
+''italic text''
+__underlined text__
+--strikedthrough text--
+
+%%information Info-box%%
+
+%%error Error-box%%
+
+%%warning Warning-box%%
+
+%%confirmation Confirmation-box%%
+
+%%error Error-box with inline %%
