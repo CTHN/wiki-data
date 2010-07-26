@@ -1,0 +1,10 @@
+!! Delpoyment
+
+Auch für das Deployment auf dem Server wird Git verwendet. Dabei ist das **root**-Repository das [http://github.com/ydkn/raki|GitHub-Repository von ydkn] (Florian S.). Jeder, der Änderungen vornehmen will, erstellt einen Fork des Projekts und commited dort seine Änderungen. Auf phonos kann dieses dann mit **git remote add username ...** eingebunden und gemerged werden.
+
+Vorsicht, es gibt noch lokale Änderungen, die entweder commited oder mit **git stash** vor einem rebase/merge weggeräumt werden müssen.
+
+
+!! Verzeichnisse und Pfade
+
+Das eigentliche Git-Repository befindet sich unter **/srv/www/vhosts/www.cthn.de/lib/cthn-repo**
