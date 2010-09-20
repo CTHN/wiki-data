@@ -1,7 +1,7 @@
 Das Fnordlicht besteht aus 3 Roten, 3 Grünen und 3 Blauen LED's. Für diese kann die Helligkeit eingestellt werden und so das annähernd das gesamte Farbspektrum ausgenutzt erzeugt werden. Zusätzlich können bis zu 254 Fnordlichter in einem Bus hintereinander geschalten und einzeln über eine serielle Schnittstelle gesteuert werden. Das Projekt ist aufgrund der Einfachheit für Anfänger geeignet. Im Rahmen des CTHN ist ein [Fnordlicht Workshop|Workshop] für alle Interessierten geplant. 
 
 
-\img Fnordlicht_a_b_serial.jpg\
+\img width=250px Fnordlicht_a_b_serial.jpg\
 Zwei Elemente mit TTL Wandler
 
 \img width=250px Fnordlicht_a_bottom.jpg\‎
