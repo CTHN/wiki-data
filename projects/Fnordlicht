@@ -1,0 +1,36 @@
+Das Fnordlicht besteht aus 3 Roten, 3 Grünen und 3 Blauen LED's. Für diese kann die Helligkeit eingestellt werden und so das annähernd das gesamte Farbspektrum ausgenutzt erzeugt werden. Zusätzlich können bis zu 254 Fnordlichter in einem Bus hintereinander geschalten und einzeln über eine serielle Schnittstelle gesteuert werden. Das Projekt ist aufgrund der Einfachheit für Anfänger geeignet. Im Rahmen des CTHN ist ein [Fnordlicht Workshop|Workshop] für alle Interessierten geplant. 
+
+
+\img Fnordlicht_a_b_serial.jpg\
+Zwei Elemente mit TTL Wandler
+
+\img width=250px Fnordlicht_a_bottom.jpg\‎
+"A"-Element konfiguriert als Master
+
+
+!Updates
+
+* Florian und Aaron haben auf dem 26c3 zwei fnordlicht mini Bausätze und einen Pegelkonverter gekauft und kurz drauf zusammen gelötet.
+* Wir haben es geschafft das fnordlicht mini über RS232 mit einem Ruby-Skript anzusprechen.
+* Wir konnten die Firmware selbst kompilieren und den Mikrocontroller flashen.
+
+
+!!Next step:
+
+* Fnordlicht Bus testen in dem man mehrere Fnordlichter hintereinander hängt.
+* Bus Protokoll komplett verstehen
+* Bessere Schnittstelle zum Pegelkonverter
+* Evtl. beim Fnordlicht-Controller helfen (Ersatz zum Pegelkonverter mit USB und IR - noch in der Planungsphase)
+
+!Weiterführende Projektideen
+* Anbindung an "Client"-Software (mpd (auf Musik reagieren), mplayer (Filmatmosphäre durch passende Beleuchtung schaffen)).
+
+\img width=400px align=center Fnordlicht_in_action.jpg\
+
+!Links und Resourcen
+* Wiki: http://wiki.lochraster.org/wiki/Fnordlichtmini
+* Bebilderte Bauanleitung: http://wiki.lochraster.org/wiki/Fnordlichtmini/Aufbauanleitung-v3
+* Sourcecode: http://github.com/fd0/fnordlicht
+* Ansprechpartner/Hauptentwickler: fd0, Alexander Neumann
+* Case-Idee 1 fürs Fnordlicht Mini: http://www.ikea.com/de/de/catalog/products/80096372
+* Case-Idee 2: http://www.ikea.com/de/de/catalog/products/90029221
