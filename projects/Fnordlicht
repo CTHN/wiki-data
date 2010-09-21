@@ -23,7 +23,7 @@ Zwei Elemente mit TTL Wandler
 * Evtl. beim Fnordlicht-Controller helfen (Ersatz zum Pegelkonverter mit USB und IR - noch in der Planungsphase)
 
 !Weiterführende Projektideen
-* Anbindung an "Client"-Software (mpd (auf Musik reagieren), mplayer (Filmatmosphäre durch passende Beleuchtung schaffen)).
+* Anbindung an "Client"-Software (mpd (auf Musik reagieren), mplayer (Filmatmosphäre durch passende Beleuchtung schaffen), [http://klautesblog.blogspot.com/2010/05/fnordlicht-ambilight-update.html|VLC fnordlicht Ambilight]).
 
 \img width=400px align=center Fnordlicht_in_action.jpg\
 
