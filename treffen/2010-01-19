@@ -1,11 +1,11 @@
 !Themen
-!![26c3] Rückblende (auch von Dragons Everywhere)
+!![veranstaltungen/26c3|26c3] Rückblende (auch von Dragons Everywhere)
 * Dragons: TwitterWall, Etherpad.com, 25-30 Leute
 * Kongress: Vorträge total überfüllt, Karten waren schon um 10 morgens ausverkauft, Beim erfa-Treffen vorgestellt
 * Vorträge: Standardvorträge ok, 0day Expoit cool
 * Hackspace: 
 
-!!Status [fnordlicht]
+!!Status [projects/fnordlicht]
 * Es blinkt
 * Workshop: [Fnordlicht Workshop|Zusammenbau des fnordlichts]
 * Mitmachen wollen: 10+ :)
@@ -13,7 +13,7 @@
 * Start: Anfang März
 * Location: skjr oder im Keller vom k2acht, oder bei Martins Verein
  
-!![Wiki-improvements]
+!![veranstaltungen/Wiki-improvements|Wiki-improvements]
 * Usability schlimm, muss überarbeitet werden
 * Umfrage vom Design gemacht
 * Admin-Zugang großzügig verteilen (Fabian!)
@@ -27,12 +27,12 @@
 * jabberIDs ins WIKI PACKEN!
 * Mail an Liste: Jeder soll userpage im Wiki anlegen
 
-!![CAcert]/[GnuPG] Signing Treffen
+!![projects/CACert|CAcert]/[projects/GnuPG|GnuPG] Signing Treffen
 * Key Signing Party
-* [CAcert] auf Webseite publik machen
+* [projects/CACert|CAcert] auf Webseite publik machen
 * Florian erklärt [CAcert]
-* [CAcert] im Wiki erklären
-* [GnuPG] im Wiki erklären
+* [projects/CACert|CAcert] im Wiki erklären
+* [projects/GnuPG|GnuPG] im Wiki erklären
 
 !!Mercurial vs Git Treffen
 * Ab April
