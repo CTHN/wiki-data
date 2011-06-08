@@ -1,21 +1,18 @@
 !!Arduino & AVR
 !!!Projekte
- [projects/Fnordlicht|Fnordlicht]
-<br>
+* [projects/Fnordlicht|Fnordlicht]
 !!!Links
- http://arduino.cc/
- http://www.freeduino.de/
- http://blog.makezine.com/ => Suche nach "Arduino" zeigt einige witzige Einsatzmöglichkeiten
- http://fritzing.org/projects/ - Basteln auf Basis Arduino
- http://www.cooking-hacks.com/ - Nette Arduino-Addons
- http://sproutboard.com/ - Serverrack-Monitoring mit Arduino
- Buch: [http://www.lovelybooks.de/autor/Manuel-Odendahl/Arduino-Physical-Computing-für-Bastler-Designer-und-Geeks-404199108-w/|Arduino - Physical Computing für Bastler, Designer und Geeks]
- Doku (Film): http://arduinothedocumentary.org/
-<br>
+* http://arduino.cc/
+* http://www.freeduino.de/
+* http://blog.makezine.com/ => Suche nach "Arduino" zeigt einige witzige Einsatzmöglichkeiten
+* http://fritzing.org/projects/ - Basteln auf Basis Arduino
+* http://www.cooking-hacks.com/ - Nette Arduino-Addons
+* http://sproutboard.com/ - Serverrack-Monitoring mit Arduino
+* Buch: [http://www.lovelybooks.de/autor/Manuel-Odendahl/Arduino-Physical-Computing-für-Bastler-Designer-und-Geeks-404199108-w/|Arduino - Physical Computing für Bastler, Designer und Geeks]
+* Doku (Film): http://arduinothedocumentary.org/
 !!mbed - Rapid Prototyping for Microcontrollers
-
 !!! Projekte
-
+* keine...
 !!!Links
- [http://mbed.org/|mbed]
- [http://mbed.org/order/|mbed bestellen]
+* [http://mbed.org/|mbed]
+* [http://mbed.org/order/|mbed bestellen]
