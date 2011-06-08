@@ -10,7 +10,7 @@ Zwei Elemente mit TTL Wandler
 
 !Updates
 
-* Florian und Aaron haben auf dem 26c3 zwei fnordlicht mini Bausätze und einen Pegelkonverter gekauft und kurz drauf zusammen gelötet.
+* Florian und Aaron haben auf dem 26c3 zwei fnordlicht mini Bausätze und einen Pegelkonverter gekauft und kurz drauf zusammengelötet.
 * Wir haben es geschafft das fnordlicht mini über RS232 mit einem Ruby-Skript anzusprechen.
 * Wir konnten die Firmware selbst kompilieren und den Mikrocontroller flashen.
 
