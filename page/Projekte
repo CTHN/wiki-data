@@ -1,7 +1,20 @@
-* [http://github.com/ydkn/raki|Raki (Wiki)]
+Wir treffen uns in unregelmäßigen Abständen, um kleine und auch größere Projekte umzusetzen. Die Ideen dazu kommen meist aus den Gesprächen der [treffen/Main|monatlichen Treffen].
+
+
+!! Etablierte oder abgeschlossende Projekte
+
+* [http://github.com/ydkn/raki|Raki] (Die Grundlage dieser Webseite.)
 * [projects/Fnordlicht|Fnordlicht]
-* [Buch_des_Monats]
-* [Embedded]
-* [http://www.minecraft.net|Minecraft]
+* [Buch_des_Monats|Buch des Monats] (Jeden Monat eine Empfehlung von [user/mezzo|mezzomix].)
+* [Embedded] (Sammlung elektronischer Bastelprojekte)
+* [http://www.minecraft.net|Minecraft] (the one an only)
+
+!! Incubator
+
 * [Buecherverwaltung]
-* [projects/Raumfindung]
+* [projects/Raumfindung|Raumfindung]
+
+!! Ideenpool
+
+* 06/2011: Chat-Client, der sich anfühlt wie IRC, aber auf der Basis von Twitter aufsetzt. Hashtags sind Channels, Tweets sind Chat-Nachrichten.
+* 06/2011: XFD (eXtreme Feedback Device) bauen.
