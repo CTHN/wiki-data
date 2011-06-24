@@ -1,7 +1,7 @@
 Das Fnordlicht besteht aus 3 roten, 3 grünen und 3 blauen LED's. Für diese kann die Helligkeit eingestellt werden, um so annähernd das gesamte Farbspektrum zu erzeugen. Zusätzlich können bis zu 254 Fnordlichter in einem Bus hintereinander geschalten, und einzeln über eine serielle Schnittstelle gesteuert werden. Das Projekt ist aufgrund der Einfachheit für Anfänger geeignet. Im Rahmen des CTHN haben wir einen [Fnordlicht Workshop|Workshop] für alle Interessierten durchgeführt. 
 
 
-\img width=250px position=left Fnordlicht_a_b_serial.jpg\ \img width=250px position=right Fnordlicht_a_bottom.jpg\‎
+\img width=250px Fnordlicht_a_b_serial.jpg\ \img width=250px Fnordlicht_a_bottom.jpg\‎
 
 !! Updates
 
@@ -21,7 +21,7 @@ Das Fnordlicht besteht aus 3 roten, 3 grünen und 3 blauen LED's. Für diese kan
 * [Fnordlicht-Case Weinkuehler|Fnordlicht-Case Weinkühler]
 * Fnordlicht als XFD nutzen.
 
-\img height=290px position=right Fnordlicht_in_action.jpg\ \img height=290px position=right weinkuehler.jpg\
+\img height=270px Fnordlicht_in_action.jpg\ \img height=270px  weinkuehler.jpg\
 
 !! Links und Resourcen
 * Wiki: http://wiki.lochraster.org/wiki/Fnordlichtmini
