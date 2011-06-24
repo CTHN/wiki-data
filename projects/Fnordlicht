@@ -1,35 +1,29 @@
-Das Fnordlicht besteht aus 3 Roten, 3 Grünen und 3 Blauen LED's. Für diese kann die Helligkeit eingestellt werden und so das annähernd das gesamte Farbspektrum ausgenutzt erzeugt werden. Zusätzlich können bis zu 254 Fnordlichter in einem Bus hintereinander geschalten und einzeln über eine serielle Schnittstelle gesteuert werden. Das Projekt ist aufgrund der Einfachheit für Anfänger geeignet. Im Rahmen des CTHN ist ein [Fnordlicht Workshop|Workshop] für alle Interessierten geplant. 
+Das Fnordlicht besteht aus 3 roten, 3 grünen und 3 blauen LED's. Für diese kann die Helligkeit eingestellt werden, um so annähernd das gesamte Farbspektrum zu erzeugen. Zusätzlich können bis zu 254 Fnordlichter in einem Bus hintereinander geschalten, und einzeln über eine serielle Schnittstelle gesteuert werden. Das Projekt ist aufgrund der Einfachheit für Anfänger geeignet. Im Rahmen des CTHN haben wir einen [Fnordlicht Workshop|Workshop] für alle Interessierten durchgeführt. 
 
 
-\img width=250px Fnordlicht_a_b_serial.jpg\
-Zwei Elemente mit TTL Wandler
+\img width=250px position=left Fnordlicht_a_b_serial.jpg\ \img width=250px position=right Fnordlicht_a_bottom.jpg\‎
 
-\img width=250px Fnordlicht_a_bottom.jpg\‎
-"A"-Element konfiguriert als Master
-
-
-!Updates
+!! Updates
 
 * Florian und Aaron haben auf dem 26c3 zwei fnordlicht mini Bausätze und einen Pegelkonverter gekauft und kurz drauf zusammengelötet.
 * Wir haben es geschafft das fnordlicht mini über RS232 mit einem Ruby-Skript anzusprechen.
 * Wir konnten die Firmware selbst kompilieren und den Mikrocontroller flashen.
+* Mehrere Fnordlichter hintereinanderschalten funktioniert nun auch.
 
+!! Next step:
 
-!!Next step:
-
-* Fnordlicht Bus testen in dem man mehrere Fnordlichter hintereinander hängt.
 * Bus Protokoll komplett verstehen
 * Bessere Schnittstelle zum Pegelkonverter
 * Evtl. beim Fnordlicht-Controller helfen (Ersatz zum Pegelkonverter mit USB und IR - noch in der Planungsphase)
 
-!Weiterführende Projektideen
+!! Weiterführende Projektideen
 * Anbindung an "Client"-Software (mpd (auf Musik reagieren), mplayer (Filmatmosphäre durch passende Beleuchtung schaffen), [http://klautesblog.blogspot.com/2010/05/fnordlicht-ambilight-update.html|VLC fnordlicht Ambilight]).
+* [Fnordlicht-Case Weinkuehler|Fnordlicht-Case Weinkühler]
+* Fnordlicht als XFD nutzen.
 
-\img width=400px Fnordlicht_in_action.jpg\
-\img width=400px weinkuehler.jpg\
-[Fnordlicht-Case Weinkuehler|Fnordlicht-Case Weinkühler]
+\img height=290px position=right Fnordlicht_in_action.jpg\ \img height=290px position=right weinkuehler.jpg\
 
-!Links und Resourcen
+!! Links und Resourcen
 * Wiki: http://wiki.lochraster.org/wiki/Fnordlichtmini
 * Bebilderte Bauanleitung: http://wiki.lochraster.org/wiki/Fnordlichtmini/Aufbauanleitung-v3
 * Sourcecode: http://github.com/fd0/fnordlicht
