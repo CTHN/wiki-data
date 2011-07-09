@@ -1,4 +1,4 @@
-!Kurzbeschreibung
+!!Kurzbeschreibung
 Chat-Client, der sich anfühlt wie IRC, aber auf der Basis von Twitter aufsetzt. Hashtags sind Channels, Tweets sind Chat-Nachrichten.
 
 
