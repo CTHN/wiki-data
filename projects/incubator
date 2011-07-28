@@ -1,19 +1,32 @@
 !! Basteln und Löten
 
+* Einführung E-Technik
+* Fnordlicht (extrem)
 * XFD (Extreme Feedback Device)
-* Fnordlicht, Teil 2
+* Netzwerksteckdose
 * Quadkopter
 * [http://ukseds.org/newwp/wp-content/uploads/2011/07/OpenSpace365BetaCallForParticipation.pdf|Run your code in space ... on an Arduino!]
+* Arduino Shield
 * Elektromotor (otih)
-* sync-LED-Matrix (oih)
+* sync-LED-Matrix (otih)
+* Wetterstation mit Web Interface
+* Messung Hamsterrad
+* "Kugelschubs"-Spiel
+* Remote Fernbedienung App
+* Hackstick
+* LED Laufschrift
+* Greifarm
+* Plotter
+* 3D-Drucker
 
 !! Diskutieren
 
-* Buch des Monats
+* [page/Buch_des_Monats|Buch des Monats]
 * [https://twitter.com/#!/mknittig/status/93970594349068288|Nerdig Talking]
+* Team für Hacking Contest auf dem LinuxTag
 
 !! Hacken
 
 * IRC-Client auf Twitter-Basis mit NodeJS und NCurses
 
-!! ??
+!! 
