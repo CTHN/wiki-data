@@ -7,8 +7,6 @@
 * Quadkopter
 * [http://ukseds.org/newwp/wp-content/uploads/2011/07/OpenSpace365BetaCallForParticipation.pdf|Run your code in space ... on an Arduino!]
 * Arduino Shield
-* Elektromotor (otih)
-* sync-LED-Matrix (otih)
 * Wetterstation mit Web Interface
 * Messung Hamsterrad
 * "Kugelschubs"-Spiel
@@ -19,6 +17,9 @@
 * Plotter
 * 3D-Drucker
 * Autonomes RC-Fahrzeug
+* E-Motoren
+* Night-Flunkyball
+* Modulare Terrarienlicht- und -beregnungssteuerung
 
 !! Diskutieren
 
@@ -29,5 +30,6 @@
 !! Hacken
 
 * IRC-Client auf Twitter-Basis mit NodeJS und NCurses
+* Offline Podcast Player in JS
 
 !! 
