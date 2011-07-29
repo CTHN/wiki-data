@@ -1,6 +1,7 @@
 !! Basteln und Löten
 
 * Einführung E-Technik
+* debugging/reperatur defekter Hardware
 * Fnordlicht (extrem)
 * XFD (Extreme Feedback Device)
 * Netzwerksteckdose
@@ -31,5 +32,6 @@
 
 * IRC-Client auf Twitter-Basis mit NodeJS und NCurses
 * Offline Podcast Player in JS
+* Raki!
 
 !! 
