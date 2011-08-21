@@ -30,7 +30,11 @@ Unser Ziel ist es, an einem Abend einen 3x3x3 LED Würfel zu löten und diesen a
 
 !! Die Schaltung
 
-* Den ersten Entwurf, erweitert um diverse Bauteile, [http://www.circuitbee.com/circuit/view/0000000146|hier online ansehen] oder als Eagle [miniledcube.sch|schematics file] herunterladen.
+* Den erste Entwurf der Schaltung, erweitert um diverse Bauteile, [http://www.circuitbee.com/circuit/view/0000000146|hier online ansehen] oder als Eagle [miniledcube.sch|schematics file] herunterladen.
+
+!! Der Code
+
+* Ich war so frei ein Repository auf [https://github.com/klaute/Cthn.de-MiniLEDCube|GitHub] einzurichten.
 
 !! Links
 
