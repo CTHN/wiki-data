@@ -33,6 +33,8 @@ ca. *10* EUR. Der genaue Betrag kann erst nach Bestellung aller Komponenten ermi
 
 !! Die Schaltung
 
+\img position=right miniledcube.png\
+
 * Den erste Entwurf der Schaltung, erweitert um diverse Bauteile, [http://www.circuitbee.com/circuit/view/0000000147|hier online ansehen] oder als Eagle [miniledcube.sch|schematics file] herunterladen.
 
 !! Der Code
