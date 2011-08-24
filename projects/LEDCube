@@ -1,5 +1,6 @@
-Unser Ziel ist es, an einem Abend einen 3x3x3 LED Würfel zu löten und diesen auch in Betrieb zu nehmen. Der Würfel kann dann später als XFD-Extension verwendet werden.
+Unser Ziel ist es, an einem Abend einen 3x3x3 LED Würfel zu löten und diesen auch in Betrieb zu nehmen. Der Würfel kann dann später als XFD-Extension verwendet werden. Die Grundplatine kann später auch für andere Zwecke verwendet werden, da sie recht universal gestaltet ist.
 
+\img position=right width=300px miniledcube.png\
 
 !! Termin
 
@@ -18,8 +19,9 @@ Dienstag 6. September, 18 Uhr im [http://cthn.de/treffen/Main#section-Projekte|n
 
 ca. *10* EUR. Der genaue Betrag kann erst nach Bestellung aller Komponenten ermittelt werden. Wir haben mit 16 Bausätzen gerechnet.
 
-* Erster Warenkorb bei [https://secure.reichelt.de/index.html?;ACTION=20;LA=5010;AWKID=467003;PROVID=2084|Reichelt]
-
+* Erster Warenkorb bei [https://secure.reichelt.de/index.html?;ACTION=20;LA=5010;AWKID=467003;PROVID=2084|Reichelt]. Bestellung am Samstag
+* 16 Platinen wurden bei platinenbelichter.de bestellt (2011-08-24)
+* TODO: LEDs fehlen noch
 
 !! Spenden
 
@@ -32,8 +34,6 @@ ca. *10* EUR. Der genaue Betrag kann erst nach Bestellung aller Komponenten ermi
 * Zeit und eine ruhige Hand
 
 !! Die Schaltung
-
-\img position=right miniledcube.png\
 
 * Den erste Entwurf der Schaltung, erweitert um diverse Bauteile, [http://www.circuitbee.com/circuit/view/0000000147|hier online ansehen] oder als Eagle [miniledcube.sch|schematics file] herunterladen.
 
