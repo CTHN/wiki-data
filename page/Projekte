@@ -1,21 +1,25 @@
-Wir treffen uns in unregelmäßigen Abständen, um kleine und auch größere Projekte umzusetzen. Die Ideen dazu kommen meist aus den Gesprächen der [treffen/Main|monatlichen Treffen].
-
-
 !! Etablierte oder abgeschlossende Projekte
 
+Im Laufe der Zeit haben sich einige Projekte angesammelt, die im Rahmen des CTHN komplett oder teilweise entstanden sind. Einige davon werden regelmäßig gepflegt und weitergeführt, andere haben bereits die Projektphase abgeschlossen.
+
 * [http://github.com/ydkn/raki|Raki] ([https://github.com/ydkn/raki/issues|Bug-Tracker]) (Die Grundlage dieser Webseite.)
-* [Buch_des_Monats|Buch des Monats] (Jeden Monat eine Empfehlung von [user/mezzo|mezzomix].)
+* [Buch_des_Monats|Buch des Monats] (Jeden Monat eine Empfehlung von unserem Buchexperten [user/mezzo|mezzomix].)
 * [Embedded] (Sammlung elektronischer Bastelprojekte)
-* [Minecraft] (the one and only)
+ * [projects/Fnordlicht|Fnordlicht] (Fertig. Komponente für XFD?)
+* [Minecraft] (Teh one and only!1)
+* [projects/Raumfindung|Hacker Space (Raumfindung)] (Zur Zeit im Olga-Zentrum)
 
 !! Incubator
 
-* [Buecherverwaltung]
-* [projects/Raumfindung|Raumfindung]
+Wir treffen uns in regelmäßigen Abständen (alle zwei Wochen), um kleine und auch größere Projekte umzusetzen. Die Ideen dazu kommen meist aus den Gesprächen der [treffen/Main|monatlichen Treffen].
+
 * [projects/LEDCube|3x3x3 LED Cube]
 
 !! Ideenpool
 
+Du hast eine Idee für ein zukünftiges Projekt? Ergänze es einfach hier (Am Besten mit einem Link oder einer kleinen Erklärung).
+
+* [Buecherverwaltung]
 * [projects/TwitterIRC|06/2011: Chat-Client, der sich anfühlt wie IRC, aber auf der Basis von Twitter aufsetzt. Hashtags sind Channels, Tweets sind Chat-Nachrichten.]
 * 06/2011: XFD (eXtreme Feedback Device) bauen.
 * einen CTHN [http://deaddrops.com/|DeadDrop] installieren 
