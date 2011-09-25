@@ -1,26 +1,36 @@
 !!Gemeinsame Veranstaltungen und Treffen auf Events
-* 2009-12-27 bis 30.: 26c3 (mit [user/mezzo|Mezzo], [user/TabTwo|TabTwo], [user/Nougad|Nougad], [user/Aaron|Aaron], [user/Juna|Juna], [user/f0i|Martin])
-* TODO: Bericht Dragons Everywhere im Forum41
-* Experimenta Heilbronn: hatten wir ja mal irgendwann im letzten Jahr angesprochen - evtl. mal als nächstes Event ansetzen?
-* 2010-KW 31/32: Intergalaktische Club Mate Party 5 - icmp5 , das "kleine" Outdoor Camp für Hacker, [user/znag|znag] wird demnächst umfassende Info einstellen sobald ein Termin feststeht.
-* 2010-08-10/13: Eth0 -an outdoor computer event intended to bring people with differing computer-related interests and skills together for an informative and fun time
+
+*2011*
+* 2011-08-21: FrOSCon 6 in Bonn
 * 2011-08-10/14: [camp2011|Chaos Communication Camp 2011] - 10|11|12|13|14th August 2011 at Finowfurt (near Berlin), Germany
+* 2011-06-18: Tag der offenen Tür im [shack]
+
+*2010*
+* 2010-08-10/13: Eth0 -an outdoor computer event intended to bring people with differing computer-related interests and skills together for an informative and fun time
+* 2010-KW 31/32: Intergalaktische Club Mate Party 5 - icmp5 , das "kleine" Outdoor Camp für Hacker
+
+*2009*
+* 2009-12-27 bis 30.: 26c3 (mit [user/mezzo|Mezzo], [user/TabTwo|TabTwo], [user/Nougad|Nougad], [user/Aaron|Aaron], [user/Juna|Juna], [user/f0i|Martin])
+
+
+*Ideen*
+* CTHN goes Experimenta Heilbronn
+
+
 
 !!Vorträge und Präsentationen
 
 * 2010-04-13: [Lightning_Talks_1|Lightning Talks 1]
 
-!!Bastelstunde und sonstige Treffen
-* [projects/Fnordlicht|Fnordlicht Workshop]
-* Hacknacht bei Benjamin ([Wiki-improvements])
-* [Minecraft]-Session bei Aaron/Bea und bei Jason
-* [projects/LEDCube|3*3*3 LED cube] bauen in den neuen Räumlichkeiten
 
 !!Diskussionsrunden
-* 2009-12-08: [Scriptsprachen_Battle|Skriptsprachen Battle (Python vs. Ruby)]
-* 2010-02-03: [Zukunft von Mikroblogging]
-* 2010-09-28: [Projekt_Brainstorming]
+
 * 2011-02-22: [Projekt_ipv6|IPv6 - Einstieg und Erfahrungsaustausch]
+* 2010-09-28: [Projekt_Brainstorming]
+* 2010-02-03: [Zukunft von Mikroblogging]
+* 2009-12-08: [Scriptsprachen_Battle|Skriptsprachen Battle (Python vs. Ruby)]
+
+
 
 !! Vorschläge/Wünsche/Ideen für außerplanmäßige Treffen
 * Einen weiteren Löt/Fnordlicht-Workshop. Da ja mittlerweile jeder zweite mit einem Fnordlicht ausgestattet ist und auch schon einige Basteleien damit angestellt wurden (Klautes VLC-Ambilight-Plugin, MBed-Bibliothek, Reihenschaltung, Fnordlicht-Controller, ...), wäre es schön noch ein gemeinsames Projekt damit zu machen.
