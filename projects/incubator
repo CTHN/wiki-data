@@ -1,5 +1,7 @@
 !! Basteln und Löten
 
+Eine wachsende und unsortierte Liste an Dingen, die wir im Incubator machen oder gerne mal machen würden. Um erweiterung wird gebeten.
+
 * Einführung E-Technik
 * debugging/reperatur defekter Hardware
 * Fnordlicht (extrem)
@@ -22,6 +24,17 @@
 * E-Motoren
 * Night-Flunkyball
 * Modulare Terrarienlicht- und -beregnungssteuerung
+* Fnordlicht Teil 2: "Es leuchtet weiter"
+* XFD (Xtreme Feedback Device) mit Einfluss auf den Response des Users: Universelles Alarmierungsdevice (Treffen nächste Woche (28.09.2010, 19:00 Uhr im k2acht für Brainstorming)
+ - Mögliche Basishardware:
+  * [http://www.lochraster.org/etherrape/]
+  * [http://www.acmesystems.it/?id=FOXG20]
+  * [http://www.spida.net/projects/hardware/usbnotify/index.de.html]
+* Mikrowelle mit Ofen-Funktion zum SMD backen verwenden
+* Kombinierbare LED-Quadrate für Anwendungen
+* Cube mit 6 Anzeigemöglichkeiten ähnlich Benjamins Wecker-Thermostat-Uhr-...
+* 3D-Würfel (Kantenlänge 1m) mit Lichteffekt
+* Weihnachtsschmuck eXtreme!
 
 !! Diskutieren
 
@@ -29,10 +42,28 @@
 * [https://twitter.com/#!/mknittig/status/93970594349068288|Nerdig Talking]
 * Team für Hacking Contest auf dem LinuxTag
 
+!! Anleitungen/Erklärungen/Tororials/Workshops
+
+* Eagle CAD
+* freerouting.net
+
 !! Hacken
 
 * IRC-Client auf Twitter-Basis mit NodeJS und NCurses
 * Offline Podcast Player in JS
 * Raki!
+* Graffiti-Projekt
+* Kleine Tools/Code von uns auf der Webseite veröffentlichen (Wissensaustausch)
+* Serverprogramm das via Cloud (XMPP) Events an das XFD übermittelt
+* "Hacking-Game" ala owasp-Wissens-Checker (http://www.happy-security.de/)
+* "News Aggregat" ala Dashboard aus den SciFi-Filmen um Facebook, Twitter, Identica, LovelyBooks, Flickr, LastFM etc. in einem Client zu bündeln.
+* tl-mr3420 OpenWRT enabled
+* git visualisieren durch entsprechende Farbe / Leuchtmuster, Beispiel: Branch wurde aktualisiert
+* [Buecherverwaltung]
+* [projects/TwitterIRC|06/2011: Chat-Client, der sich anfühlt wie IRC, aber auf der Basis von Twitter aufsetzt. Hashtags sind Channels, Tweets sind Chat-Nachrichten.]
 
-!! 
+!! Public stuff
+
+* einen CTHN [http://deaddrops.com/|DeadDrop] installieren 
+* Anmeldung bei Oreilly als [http://www.oreilly.de/ug/|UserGroup] (siehe auch [http://community.oreilly.de/blog/2011/07/20/aufruf-an-alle-usergroups-wir-stellen-sie-vor/|hier])
+

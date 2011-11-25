@@ -63,12 +63,13 @@ ca. *10* EUR. Der genaue Betrag kann erst nach Bestellung aller Komponenten ermi
 
 Markiert bitte in den entsprechenden Spalten den Schwierigkeitsgrad der einzelnen Punkte und gebt ggf. einen Kommentar dazu ab.
 
-| | - -| - |NULL|+|++|Kommentar|
-|LEDs löten|||||||
-|Platine löten|||||||
-|Komplexität der mosfetkiller Firmware|||||||
-|Komplexität der CTHN-Firmware|||||||
-|Allgemeiner Aufwand|||||||
+|                                     | - -| - |NULL|+|++|Kommentar|
+|LEDs löten                           ||||*||Mit dem Styropor super :)|
+|Platine löten                        |||*|||Ohne Lack etwas zu frickelig|
+|Komplexität der mosfetkiller Firmware||*|||||
+|Komplexität der CTHN-Firmware        |||*||||
+|Allgemeiner Aufwand                  |||*||||
+|Projekt allgemein                    |||||*||
 
 | - -|sehr schlecht/schwierig/hoch|
 | - |schlecht/schwierig/hoch|
