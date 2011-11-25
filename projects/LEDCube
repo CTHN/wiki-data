@@ -6,7 +6,9 @@ Unser Ziel ist es, an einem Abend einen 3x3x3 LED Würfel zu löten und diesen a
 
 Dienstag 20. September, 19 Uhr im [http://cthn.de/treffen/Main#section-Projekte|neuen Raum].
 Dienstag 4. Oktober, 19 Uhr im [http://cthn.de/treffen/Main#section-Projekte|neuen Raum].
-Dienstag 18. Oktober, 19 Uhr im [http://cthn.de/treffen/Main#section-Projekte|neuen Raum].
+Dienstag 1. November, 19 Uhr im [http://cthn.de/treffen/Main#section-Projekte|neuen Raum].
+Dienstag 15. November, 19 Uhr im [http://cthn.de/treffen/Main#section-Projekte|neuen Raum].
+Dienstag 29. November, 19 Uhr im [http://cthn.de/treffen/Main#section-Projekte|neuen Raum].
 
 
 !! Teilnehmer
@@ -44,11 +46,11 @@ ca. *10* EUR. Der genaue Betrag kann erst nach Bestellung aller Komponenten ermi
 
 !! Die Schaltung
 
-* Den erste Entwurf der Schaltung, erweitert um diverse Bauteile, [http://www.circuitbee.com/circuit/view/0000000147|hier online ansehen] oder als Eagle [miniledcube.sch|schematics file] herunterladen.
+* Den erste Entwurf der Schaltung, erweitert um diverse Bauteile, [http://www.circuitbee.com/circuit/view/0000000147|hier online ansehen] oder als Eagle [https://github.com/klaute/Cthn.de-MiniLEDCube/blob/USB/pcb/miniledcube.sch|schematics file] herunterladen.
 
 !! Den Code
 
-* Gibt es [https://github.com/klaute/Cthn.de-MiniLEDCube|hier]. Die Hardware ist mit der originalen Firmware von mosfetkiller kompatibel. USB-Support muss noch entsprechend implementiert werden.
+* gibt es [https://github.com/klaute/Cthn.de-MiniLEDCube|hier]. Die Hardware ist mit der originalen Firmware von mosfetkiller kompatibel. USB-Support muss noch entsprechend implementiert werden.
 
 !! Links
 
@@ -56,3 +58,20 @@ ca. *10* EUR. Der genaue Betrag kann erst nach Bestellung aller Komponenten ermi
 * http://www.youtube.com/watch?v=--w_HJvOB5M
 * http://www.barthel-it.de/index.php?option=com_content&view=article&id=6&Itemid=18
 * http://hackaday.com/2011/09/18/attiny-hacks-2313-driving-a-4x4x4-led-cube/
+
+!! Feedback
+
+Markiert bitte in den entsprechenden Spalten den Schwierigkeitsgrad der einzelnen Punkte und gebt ggf. einen Kommentar dazu ab.
+
+| | - -| - |NULL|+|++|Kommentar|
+|LEDs löten|||||||
+|Platine löten|||||||
+|Komplexität der mosfetkiller Firmware|||||||
+|Komplexität der CTHN-Firmware|||||||
+|Allgemeiner Aufwand|||||||
+
+| - -|sehr schlecht/schwierig/hoch|
+| - |schlecht/schwierig/hoch|
+|NULL|neutral|
+|+|gut/einfach/gering|
+|++|sehr gut/einfach/gering|
