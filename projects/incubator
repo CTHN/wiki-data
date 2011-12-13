@@ -6,7 +6,6 @@ Eine wachsende und unsortierte Liste an Dingen, die wir im Incubator machen oder
 * debugging/reperatur defekter Hardware
 * Fnordlicht (extrem)
 * [http://www.youtube.com/watch?v=f5fwmK48LkY|Fnordlicht Lampe]
-* XFD (Extreme Feedback Device)
 * Netzwerksteckdose
 * Quadkopter
 * [http://ukseds.org/newwp/wp-content/uploads/2011/07/OpenSpace365BetaCallForParticipation.pdf|Run your code in space ... on an Arduino!]
@@ -14,18 +13,18 @@ Eine wachsende und unsortierte Liste an Dingen, die wir im Incubator machen oder
 * Wetterstation mit Web Interface
 * Messung Hamsterrad
 * "Kugelschubs"-Spiel
-* Remote Fernbedienung App
-* Hackstick
+* Remote Fernbedienung App (mike)
+* Hackstick (aaron)
 * LED Laufschrift
 * Greifarm
-* Plotter
+* Plotter (jason)
 * 3D-Drucker
-* Autonomes RC-Fahrzeug
+* Autonomes RC-Fahrzeug (kai)
 * E-Motoren
-* Night-Flunkyball
+* Night-Flunkyball (fabian)
 * Modulare Terrarienlicht- und -beregnungssteuerung
 * Fnordlicht Teil 2: "Es leuchtet weiter"
-* XFD (Xtreme Feedback Device) mit Einfluss auf den Response des Users: Universelles Alarmierungsdevice (Treffen nächste Woche (28.09.2010, 19:00 Uhr im k2acht für Brainstorming)
+* XFD (Xtreme Feedback Device) mit Einfluss auf den Response des Users: Universelles Alarmierungsdevice (Treffen nächste Woche (28.09.2010, 19:00 Uhr im k2acht für Brainstorming) (aaron, kai)
  - Mögliche Basishardware:
   * [http://www.lochraster.org/etherrape/]
   * [http://www.acmesystems.it/?id=FOXG20]
@@ -35,6 +34,8 @@ Eine wachsende und unsortierte Liste an Dingen, die wir im Incubator machen oder
 * Cube mit 6 Anzeigemöglichkeiten ähnlich Benjamins Wecker-Thermostat-Uhr-...
 * 3D-Würfel (Kantenlänge 1m) mit Lichteffekt
 * Weihnachtsschmuck eXtreme!
+* Raspberry Pi (fabian)
+* LED-Cube als Klingel (kai, aaron, moritz)
 
 !! Diskutieren
 
@@ -44,16 +45,20 @@ Eine wachsende und unsortierte Liste an Dingen, die wir im Incubator machen oder
 
 !! Anleitungen/Erklärungen/Tororials/Workshops
 
-* Eagle CAD
-* freerouting.net
+* Eagle CAD, freerouting.net (Kai)
 * sectools.org Programmvorstellungen, one at a time.
+* VLC remote (gopher), XMBC<-->VDR (Ralf, Martin)
+* Eclipse, Android-Programmierung (Aaron, Martin)
+* Git (Aaron)
+* VIM (Aaron, gopher)
+* IPv6 (jason, fabian)
 
 !! Hacken
 
 * IRC-Client auf Twitter-Basis mit NodeJS und NCurses
 * Offline Podcast Player in JS
 * Raki!
-* Graffiti-Projekt
+* Grafitti-Projekt
 * Kleine Tools/Code von uns auf der Webseite veröffentlichen (Wissensaustausch)
 * Serverprogramm das via Cloud (XMPP) Events an das XFD übermittelt
 * "Hacking-Game" ala owasp-Wissens-Checker (http://www.happy-security.de/)
