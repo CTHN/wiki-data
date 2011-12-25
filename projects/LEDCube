@@ -1,4 +1,4 @@
-Unser Ziel ist es, an einem Abend einen 3x3x3 LED Würfel zu löten und diesen auch in Betrieb zu nehmen. Der Würfel kann dann später als XFD-Extension verwendet werden. Die Grundplatine kann später auch für andere Zwecke verwendet werden, da sie recht universal gestaltet ist.
+Unser Ziel war es, an einem Abend einen 3x3x3 LED Würfel zu löten und diesen auch in Betrieb zu nehmen. Der Würfel kann dann später als XFD-Extension verwendet werden. Die Grundplatine soll in den darauf folgenden Treffen aufgebaut und in Betrieb genommen werden. Diese kann später auch für andere Zwecke verwendet werden, da sie recht universal gestaltet ist.
 
 \img position=right width=300px miniledcube.png\
 
@@ -18,12 +18,12 @@ Dienstag 29. November, 19 Uhr im [http://cthn.de/treffen/Main#section-Projekte|n
 
 !! Kosten
 
-ca. *10* EUR. Der genaue Betrag kann erst nach Bestellung aller Komponenten ermittelt werden. Wir haben mit 16 Bausätzen gerechnet.
+Ca. *12* EUR. Der genaue Betrag kann erst nach Bestellung aller Komponenten ermittelt werden. Wir haben mit 16 Bausätzen gerechnet.
 
 * Erster Warenkorb bei [https://secure.reichelt.de/index.html?;ACTION=20;AWKID=489868;PROVID=2084|Reichelt]. Bestellt, angekommen und vertütet.
 * 16 Platinen wurden bei [http://platinenbelichter.de|platinenbelichter.de] bestellt (2011-08-24) und kommen hoffentlich bis Dienstag.
 
-!! Spenden
+!! Spenden für den Worhshop
 
 * Eine Tischlampe für den neuen Raum (Aaron/Juna)
 * Mehrfachsteckdose (Juna)
@@ -40,39 +40,25 @@ ca. *10* EUR. Der genaue Betrag kann erst nach Bestellung aller Komponenten ermi
 * (Notebook)
 * Programmiergerät(e) z.B. AVR-Dragon, USB-Progi, AVRISPII, usw. alle gängigen die einen AVR per ISP flashen können.
 
-!! ToDo und wünschenswertes
+!! ToDo
 
-* Beamer?
+* Firmware ausrollen
+* 3D Editor implementieren (aaron)
+* Kommandozeilen-Client implementieren (klaute)
 
 !! Die Schaltung
 
-* Den erste Entwurf der Schaltung, erweitert um diverse Bauteile, [http://www.circuitbee.com/circuit/view/0000000147|hier online ansehen] oder als Eagle [https://github.com/klaute/Cthn.de-MiniLEDCube/blob/USB/pcb/miniledcube.sch|schematics file] herunterladen.
+* Die Schaltung kann [http://www.circuitbee.com/circuit/view/0000000147|hier online eingesehen] werden oder als Eagle [https://github.com/klaute/Cthn.de-MiniLEDCube/blob/USB/pcb/miniledcube.sch|schematics file] heruntergeladen werden.
 
-!! Den Code
+!! Firware
 
-* gibt es [https://github.com/klaute/Cthn.de-MiniLEDCube|hier]. Die Hardware ist mit der originalen Firmware von mosfetkiller kompatibel. USB-Support muss noch entsprechend implementiert werden.
+* Den Code gibt es [https://github.com/klaute/Cthn.de-MiniLEDCube|hier]. Die Hardware ist mit der originalen Firmware von mosfetkiller kompatibel, daher kann zu beginn auch diese verwendet werden. Die CTHN Firmware beinhaltet jedoch Unterstützung für USB, veränderliche Animationen und Standalone-Betrieb.
 
 !! Links
 
+* http://www.youtube.com/watch?v=lg6MilqsfM4
+* Der zweite (etwas größere) Cube von Aaron - http://www.youtube.com/watch?feature=endscreen&NR=1&v=Zgql8C2YfYU
 * http://mosfetkiller.de/?s=miniledcube
-* http://www.youtube.com/watch?v=--w_HJvOB5M
 * http://www.barthel-it.de/index.php?option=com_content&view=article&id=6&Itemid=18
 * http://hackaday.com/2011/09/18/attiny-hacks-2313-driving-a-4x4x4-led-cube/
 
-!! Feedback
-
-Markiert bitte in den entsprechenden Spalten den Schwierigkeitsgrad der einzelnen Punkte und gebt ggf. einen Kommentar dazu ab.
-
-|                                     | - -| - |NULL|+|++|Kommentar|
-|LEDs löten                           ||||*||Mit dem Styropor super :)|
-|Platine löten                        |||*|||Ohne Lack etwas zu frickelig|
-|Komplexität der mosfetkiller Firmware||*|||||
-|Komplexität der CTHN-Firmware        |||*||||
-|Allgemeiner Aufwand                  |||*||||
-|Projekt allgemein                    |||||*||
-
-| - -|sehr schlecht/schwierig/hoch|
-| - |schlecht/schwierig/hoch|
-|NULL|neutral|
-|+|gut/einfach/gering|
-|++|sehr gut/einfach/gering|
