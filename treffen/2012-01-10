@@ -1,19 +1,20 @@
 !!Fahrplan
+* Stand der eingegangenen Daueraufträge und Kassenstand von [user/juna|Bea].
 * Finanzierung 3 Monate im Voraus für größeres Mietobjekt: Um welchen Betrag handelt es sich dabei? Wie können wir das Problem lösen? -> Feste Mitgliedsbeiträge von wievielen festen Mitgliedern notwendig. -> Vereinsgründung ist unausweichlich...
 * Vorstellung von Mikes CTHN-Plakat (5 min Brainstorming für Verbesserung) -> Hochauflösende Vorlagen werden benötigt.
 * Das Henne-/Ei-Problem: [http://hackerspaces.org/wiki/Design_Patterns|design pattern]; [http://events.ccc.de/congress/2007/Fahrplan/attachments/1003_Building%20a%20Hacker%20Space.pdf|Präsentation 24c3]; [http://www.youtube.com/watch?v=8lywXCZogsg|Video vom 24C3]
 * Aufgabenverteilung:
  * Passende Räumlichkeiten finden ([http://www.immobilienscout24.de/expose/62961737?is24EC=IS24&style=is24&navigationbarurl=/Suche/S-T/Buero-Praxis/Baden-Wuerttemberg/Heilbronn/-/100,00-/EURO--2000,00/1|Beispiel])
- * Werbung:
+ * Aktive Werbung:
   - CTHN auf diversen Seiten eintragen: [http://hackerspaces.org] (cthn user angelegt)
   - Plakat in FH aushängen.
   - Spam auf diversen Mailinglisten. -> Offizielle Werbemail formulieren.
   - Aufkleber auslegen. -> Design erstellen.
  * Name für den Verein finden, der nicht urheberrechtlich geschützt ist.
- * Vereinssatzung formulieren/kopieren/wasserdicht machen
-  - Allgemeinnützigkeit (Vor-/Nachteile ermitteln)
-  - Ausschlusskriterium von Mitgliedern beachten
-  - Beschlussfähige Sitzungen definieren
+ * Vereinssatzung formulieren/kopieren/wasserdicht machen.
+  - Allgemeinnützigkeit (Vor-/Nachteile ermitteln).
+  - Ausschlusskriterium (Verein und Räumlichkeiten) von Mitgliedern beachten.
+  - Beschlussfähige Sitzungen definieren.
   - Neue Satungsart verwenden bei der das Finanzamt kein Geld bekommt nachdem der Verein aufgelöst wurde.
   - Ausreichend hohen Mitgliedsbeitrag einplanen.
   - Rechtliche Vor-/Nachteile der Mitglieder die ein Amt im Verein inne halten.
@@ -22,10 +23,12 @@
   - Wer darf Bestellungen in Auftrag geben (Einer oder mehrere, die unterschreiben auf der Bestellung unterschreiben)?
  * Grundlegende Infrastruktur muss angeschafft werden. -> Was brauchen wir? Woher bekommen wir das? Wie finanzieren wir das?
 
+* [projekte\LEDCube] Firmware rollout und Demo, bringt eure fertigen Platinen oder ATTiny2313 mit.
+
 * Wiki Hacksession
  - Umformulieren
   * Impressum/Kontakt
   * Startseite (Neue Mitglieder...)
- - Embedded Youtube/Vimeo etc. Videos
- - Warum schmiert das ding ständig ab?
- - Mitgliederbereich für zahlende Mitglieder
+ - Embedded Youtube/Vimeo etc. Videos aber wo fängt man da an?
+ - Warum schmiert das Ding ständig ab?
+ - Mitgliederbereich für zahlende Mitglieder!?
