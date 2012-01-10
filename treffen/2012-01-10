@@ -1,35 +1,61 @@
 !!Fahrplan
-* Stand der eingegangenen Daueraufträge und Kassenstand von [user/Juna|Bea].
-* Finanzierung 3 Monate im Voraus für größeres Mietobjekt: Um welchen Betrag handelt es sich dabei? Wie können wir das Problem lösen? -> Feste Mitgliedsbeiträge von wievielen festen Mitgliedern notwendig. -> Vereinsgründung ist unausweichlich...
-* Vorstellung von Mikes CTHN-Plakat (5 min Brainstorming für Verbesserung) -> Hochauflösende Vorlagen werden benötigt.
+
+* Stand der eingegangenen Daueraufträge und Kassenstand von [user/Juna|Bea]. -> Konsequenzen?!
+
+* Shack & Dragons Everywhere...
+ * LEDCube Editor
+ * Vorträge gehört
+ * diverse Rundgänge und Demonstrationen
+ * Inforunden zum Thema Hackerspace und Vereinsgründung.
+ * Vorstellung von Mikes CTHN-Plakat und Aarons Sticker (5 min Brainstorming für Verbesserung)
+  - Hochauflösende Vorlagen werden benötigt!?
+  - Warum funktionieren die QR-Codes nicht richtig!?
+
+!!!Hackerspace
+
 * Das Henne-/Ei-Problem: [http://hackerspaces.org/wiki/Design_Patterns|design pattern]; [http://events.ccc.de/congress/2007/Fahrplan/attachments/1003_Building%20a%20Hacker%20Space.pdf|Präsentation 24c3]; [http://www.youtube.com/watch?v=8lywXCZogsg|Video vom 24C3]; [http://hackerspaces.org/wiki/Metalab/Lessons_learned|Lessons learned]
+ * Erst Verein oder erst Mieten?
+
+* Finanzierung 3 Monate im Voraus für größeres Mietobjekt.
+ * Um welchen Betrag handelt es sich dabei?
+ * Wie können wir das Problem lösen?
+ * Feste Mitgliedsbeiträge von wie vielen zahlenden Mitgliedern notwendig?
+ * Beispielrechnung: 650,- Monatsmiete (incl. Heizung) + ~360,- Stromkosten (24h;2,5kW;20cent/kW * 30 Tage) = 1010,-
+ * Kaution und Einrichtung der Infrastruktur, etc. nicht einbezogen.
+ * Bei 25,- Mitgliedsbeitrag/Monat > 40 zahlende Mitglieder notwendig!!!
+
 * Aufgabenverteilung:
- * Passende Räumlichkeiten finden ([http://www.immobilienscout24.de/expose/62961737?is24EC=IS24&style=is24&navigationbarurl=/Suche/S-T/Buero-Praxis/Baden-Wuerttemberg/Heilbronn/-/100,00-/EURO--2000,00/1|Beispiel])
+ * Passende Räumlichkeiten finden: :([http://www.immobilienscout24.de/expose/62961737?is24EC=IS24&style=is24&navigationbarurl=/Suche/S-T/Buero-Praxis/Baden-Wuerttemberg/Heilbronn/-/100,00-/EURO--2000,00/1|Beispiel])
  * Aktive Werbung:
   - CTHN auf diversen Seiten eintragen: [http://hackerspaces.org] (cthn user angelegt)
   - Plakat in FH aushängen.
-  - Spam auf diversen Mailinglisten. -> Offizielle Werbemail formulieren.
-  - Aufkleber auslegen. -> Design erstellen.
- * Name für den Verein finden, der nicht urheberrechtlich geschützt ist.
+  - Spam auf diversen Mailinglisten.
+   - Offizielle Werbemail formulieren.
+  - Aufkleber auslegen.
+   - Design erstellen.
+ * Name für den Verein finden, der *nicht* urheberrechtlich geschützt ist.
  * Vereinssatzung formulieren/kopieren/wasserdicht machen.
   - Allgemeinnützigkeit (Vor-/Nachteile ermitteln).
   - Ausschlusskriterium (Verein und Räumlichkeiten) von Mitgliedern beachten.
   - Beschlussfähige Sitzungen definieren.
-  - Neue Satungsart verwenden bei der das Finanzamt kein Geld bekommt nachdem der Verein aufgelöst wurde.
+  - Neue Satzungsart verwenden bei der das Finanzamt kein Geld bekommt nachdem der Verein aufgelöst wurde.
   - Ausreichend hohen Mitgliedsbeitrag einplanen.
   - Rechtliche Vor-/Nachteile der Mitglieder die ein Amt im Verein inne halten.
-  - Wer hat das Recht dazu für den Verein nach aussen hin zu sprechen?
+  - Wer hat das Recht dazu für den Verein nach außen hin zu sprechen?
   - In welcher Form darf/muss zu den regelmäßigen Sitzungen eingeladen werden?
-  - Wer darf Bestellungen in Auftrag geben (Einer oder mehrere, die unterschreiben auf der Bestellung unterschreiben)?
-  - Wie werden bei Abstimmungen Enthaltungen und ungültige Stimmen gewertet? Werden diese positiv oder negativ gewertet? Beispiel: Es soll ein Ehrenmitglied geben (Vereinsmeierei): Sind ungültige Stimmen Enthaltungen lautet das Ergebnis 6 ja, 4 Enthaltungen. Fallen ungültige Stimmen weg, lautet das Ergebnis: Einstimmig ohne Gegenstimmen. Ansonsten 6 dafür und 4 dagegen, dass Person x zum Ehrenmitglied ernannt wird.
- * Grundlegende Infrastruktur muss angeschafft werden. -> Was brauchen wir? Woher bekommen wir das? Wie finanzieren wir das?
+  - Wer darf Bestellungen in Auftrag geben (Eine oder mehrere Personen, die auf der Bestellung unterschreiben müssen)?
+  - Wie werden bei Abstimmungen Enthaltungen und ungültige Stimmen gewertet (bei 10 anwesenden)? Werden diese positiv oder negativ gewertet? Beispiel: Es soll ein Ehrenmitglied geben (Vereinsmeierei): Sind ungültige Stimmen Enthaltungen lautet das Ergebnis 6 ja, 4 Enthaltungen. Fallen ungültige Stimmen weg, lautet das Ergebnis: Einstimmig ohne Gegenstimmen. Ansonsten 6 dafür und 4 dagegen, dass Person x zum Ehrenmitglied ernannt wird.
+ * Grundlegende Infrastruktur muss angeschafft werden.
+  - Was brauchen wir an Minimum und woher bekommen wir das?
+  - Wie finanzieren wir das?
 
-* [projects/LEDCube] Firmware rollout und Demo, bringt eure fertigen Platinen oder ATTiny2313 mit.
+* [projects/LEDCube|LEDCube] Firmware rollout und Demo, bringt eure fertigen Platinen oder euren ATTiny2313 mit.
 
 * Wiki Hacksession
+ - Menüpunkt "Anfahrt" einfügen und auf Plakat/Sticker einbinden.
  - Umformulieren
   * Impressum/Kontakt
-  * Startseite (Neue Mitglieder...)
+  * Startseite ("Neue Mitglieder..." weniger abschreckend formulieren)
  - Embedded Youtube/Vimeo etc. Videos aber wo fängt man da an?
- - Warum schmiert das Ding ständig ab?
+ - Warum schmiert das Ding ständig ab? Wenn es nicht geht muss etwas besseres her.
  - Mitgliederbereich für zahlende Mitglieder!?
