@@ -1,16 +1,21 @@
-!!!!Die Kommunikation innerhalb des Chaostreff Heilbronn findet über unsere Mailingliste statt. Dort werden Treffen vereinbart und technische Probleme besprochen. Jeder ist dort herzlich willkommen, wir bitten jedoch, ein paar Grundregeln zu beachten:
+Die Kommunikation innerhalb des Chaostreff Heilbronn findet unter anderem über unsere Mailingliste statt. Dort werden Treffen vereinbart, aber auch fachliche Diskussionen ausgetragen. Obligatorisches wird hier auch besprochen. Wenn du Interesse am CTHN hast und mal reinschnuppern möchtest, kannst du gerne auf der Mailingliste mitlesen. Natürlich darfst Du dich auch mit beteiligen und Fragen stellen.
 
-* Stellt Fragen so, dass klar wird, worum es eigentlich geht. "Mein Linux ist kaputt" sagt keinem etwas, dagegen ein "wenn ich Programm A unter Distribution B starte, bekomme ich folgende Fehlermeldung: ..." sehr wohl.
-* Versuche vorher, Deine Frage mit Hilfe des Internets zu lösen, wenn Du dort nicht weiterkommst, kannst Du Dich gerne an uns wenden.
-* Bitte versuche, Deine Fragen durch Groß- und Kleinschreibung, Satzzeichen und Absätze halbwegs lesbar zu gestalten (das ist ernst gemeint, wir hatten schon Mails, bei denen es schwierig zu erraten war, was der Betreffende eigentlich sagen will).
-* Es gibt verschiedene Betriebssysteme und Distributionen sowie verschiedene Präferenzen unter den CTHN-Mitgliedern. Bitte geh nicht davon aus, dass Deine Konfiguration die einzige auf diesem Planeten ist. Mit einem "ich hab mir heute Linux 9.3 installiert" machst Du Dir sicher keine Freunde, höchstens hämische Anmerkungen, dass mal wieder jemand aus der Zukunft zu uns gestoßen ist.
-* Antworten auf der Mailingliste spiegeln niemals die Meinung des Chaostreff Heilbronn oder gar Chaos Computer Club e.V. ab, sondern sind *grundsätzlich* Einzelmeinungen.
-[https://lists.schokokeks.org/mailman/listinfo.cgi/cthn|Anmeldung für die Mailingliste]
 
-Alternativ kann auch einfach eine Mail mit dem Betreff *subscribe* an [Mailto:cthn-subscribe@lists.cthn.de|cthn-subscribe@lists.cthn.de] gesendet werden.
+!! Anmelden
+Um sich auf der Mailingliste anzumelden, gehe auf die [https://lists.schokokeks.org/mailman/listinfo.cgi/cthn|Übersichtsseite] und trage dort deine E-Mail Adresse ein. Eine E-Mail zur Bestätigung der Anmeldung wird an die angegebene Adresse gesendet. Alternativ kann auch einfach eine Mail mit dem Betreff "*subscribe*" an [Mailto:cthn-subscribe@lists.cthn.de|cthn-subscribe@lists.cthn.de] gesendet werden. Danach kann man direkt loslegen, eine Freischaltung ist nicht erforderlich.
 
-Eine Mail an die Mailingliste kann man einfach an [Mailto:cthn@lists.cthn.de|cthn@lists.cthn.de] senden. Dies ist auch die offizielle CTHN-Kontaktadresse. 
 
-Es gibt kein öffentliches Archiv dieser Mailingliste.
+!! Mitmachen
 
-*BITTE BEACHTEN:* Unsere Mailingliste leitet nur E-Mails weiter, die von einem Mitleser der Liste verfasst werden. E-Mails von bisher unbekannten Absendern werden erstmal zurückgehalten. Unsere Moderatoren brauchen aber manchmal eine Weile bis diese Warteschlange von gefilterten E-Mails aufgearbeitet wird. Es lohnt sich daher, *sich vorher auf der Liste einzutragen* oder bei direkten Presseanfragen an [Mailto:presse@cthn.de|presse@cthn.de] zu wenden.
+Um sich an einer Diskussion zu beteiligen, schreibe eine E-Mail an [Mailto:cthn@lists.cthn.de|cthn@lists.cthn.de] senden.
+
+
+*BITTE BEACHTEN:* Diese Mailingliste leitet nur E-Mails weiter, die von einem Mitglied der Liste verfasst werden. E-Mails von bisher unbekannten Absendern werden zurückgehalten und müssen manuell freigeschalten werden. Es lohnt sich daher, *sich vorher auf der Liste einzutragen*.
+
+
+!! Archiv und alte Topics
+
+Es gibt kein Archiv dieser Mailingliste. Also entweder die E-Mails selbst archivieren oder wichtige Informationen auf einem anderen Weg persistieren (hier im Wiki zum Beispiel).
+
+
+!! Administration
