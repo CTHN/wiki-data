@@ -1,10 +1,21 @@
+In den Scheibenweltromanan von [http://www.terrypratchett.co.uk/|Terry Pratchett] wird oft von einem Lord Vetinari erz‰hlt, der eine Uhr an der Wand h‰ngen hat. Diese Uhr wurde gebaut um ungleichm‰ﬂig zu ticken und die Besucher des Lords unruhig zu machen. Eine solche Uhr haben wir mit ein paar wenigen Bauteilen nachgebaut.
 
-In den Scheibenweltromanan von Terry Pratchett wird oft von einem Loord Vetinari erz‰hlt, der eine Uhr an der Wand h‰ngen hat.
-Diese Uhr wurde gebaut um ungleichm‰ﬂig zu ticken und die Besucher des Lords unruhig zu machen.
+!! Beuteile
+
+* 1 EUR Uhr
+* Attiny13
+* Ein paar Wiederst‰nde und Dioden
+* 2x AA Zellen Batteriehalter
+
+!! Aktueller Stand
+
+Die Firmware ist fertig, die Hardware auch. Leider arbeitet der interne Quarz nicht genau genug, so dass die Uhr schnell falsch l‰uft. Aktuell wird versucht dies durch kalibrieren auszugleichen.
 
 !! Videos
 \youtube http://www.youtube.com/watch?v=DUfw8ubQcUA \
 
 !! Links
-http://www.waitingforfriday.com/index.php/Vetinari%27s_Clock
+
+* http://www.waitingforfriday.com/index.php/Vetinari%27s_Clock
+* https://github.com/CTHN/Lord-Vetinari-s-Clock
 
