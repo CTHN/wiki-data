@@ -1,10 +1,10 @@
 ![Embedded image](/images/avatar.jpg)
 
 *Aaron Müller*
-~(29, Bad Friedrichshall, Software Engineer)~
+*(30, Karlsruhe, Software Engineer)*
 
 
-##Interessen
+## Interessen
 Astronomie, Weltraum, SciFi, Elektronik, AVR, Basteleien, Linux, OSX, Programmieren, Sprachen, Web, Mobile Geräte, Ruby, JavaScript, Rails, Lisp, eBooks, lesen, schreiben, OSM, GeoCaching, StreetArt, Grafitti, Stencils, Slacklining, Camping, Grillen, laufen, Tischkicker, Vim, Security und so einiges mehr.
 
 
@@ -16,6 +16,6 @@ Astronomie, Weltraum, SciFi, Elektronik, AVR, Basteleien, Linux, OSX, Programmie
 * [Das Raumproblem](/projects/Raumfindung)
 
 
-##Kontakt
+## Kontakt
 http://aaron-mueller.de/
 xmpp: aaron @ jabber.ccc.de
