@@ -17,5 +17,5 @@ Astronomie, Weltraum, SciFi, Elektronik, AVR, Basteleien, Linux, OSX, Programmie
 
 
 ## Kontakt
-http://aaron-mueller.de/
+https://aaron-mueller.de/
 xmpp: aaron @ jabber.ccc.de
