@@ -1,0 +1,17 @@
+Raki ist ein plugin-basiertes Wiki, geschrieben mit dem RubyOnRails Framework. Es können mehrere Backends zur Speicherung der Seiten und Anhänge verwendet werden. Auf dieser Seite wird Raki mit dem GIT-Backend verwendet.
+
+
+Diese Webseite ist unter folgendem [Github-Projekt](/https://github.com/aaronmueller/cthn-website) zu erreichen. Hier bitte auch alle layout-spezifischen und inhaltlichen Fehler melden. Logische Fehler bitte im [Hauptprojekt](/https://github.com/ydkn/raki) melden. Der Inhalt dieser Seite (also auch dieser Text) liegt [ebenfalls auf github](/https://github.com/ydkn/cthn_wiki).
+
+
+## Entwickler
+
+* [f0i](/user/f0i)
+* [ydkn](/user/ydkn)
+
+## Contributors
+
+* [gopher](/user/gopher)
+* [Aaron](/user/Aaron)
+* [Fabian](/user/otih)
+

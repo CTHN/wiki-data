@@ -1,0 +1,17 @@
+##Projekte im CTHN
+
+- [Das Raumproblem](/projects/Raumfindung)
+- [Embedded](/page/Embedded)
+- [Fnordlicht](/projects/Fnordlicht)
+
+##Andere Projekte
+- [VLC fnordlicht Ambilight](/http://klautesblog.blogspot.com/search/label/VLC%20fnordlicht%20%22Ambilight%22)
+- [Mike's LEDMatrix](/http://klautesblog.blogspot.com/search/label/LED%20Matrix)
+- [HackStick](/http://klautesblog.blogspot.com/search/label/HackStick)
+
+##Kontakt
+
+- [Blog](/http://klautesblog.blogspot.com)
+- mail: klaute at gmail dot com
+- jabber: klaute@jabber.ccc.de
+- twitter: [klaute](/http://twitter.com/klaute)

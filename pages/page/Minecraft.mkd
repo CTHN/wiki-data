@@ -1,0 +1,14 @@
+## Allgemein
+
+[CTHN Minecraft Map](/http://mcmap.cthn.de/)
+
+## Session bei Jason im Juli
+
+Eine provisorische "Nachtüberspring-Konstruktion" ... wir haben dann festgestellt, dass sie mehreren strengen Regeln entsprechen muss, um korrekt zu funktionieren.
+![Embedded image](/images/minecraft_jason2.png)
+
+[/give <user> 46 64](/http://de.minecraftwiki.net/wiki/TNT)
+![Embedded image](/images/minecraft_jason3.png)
+
+Und das kam dann dabei raus ...
+![Embedded image](/images/minecraft_jason.png)

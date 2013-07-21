@@ -1,0 +1,17 @@
+###Allgemein
+* Sticker
+ * Bea hat Preise für Sticker angefragt und auf der ML gepostet. Der günstigere Anbieter kostet ca. 30,- für ~250 Stück. Bea bestellt sobald die Sticker fertig sind.
+ * Die Sticker benötigen einen QR-Code der lesbar ist. Vermutlich muss lediglich ein weißer Rahmen um diesen gezeichnet werden. (Aaron?)
+ * Die URL des QR-Codes sollte etwas wie [cthn.de/contact](/cthn.de/contact) oder [cthn.de/anfahrt](/cthn.de/anfahrt) enthalten. -> Seite muss erstellt werden. (klaute)
+* Raum
+ * Mike hat sich mit einem der Mitarbeitern des Olgazentrums unterhalten und damit die ersten Schritte in einen größeren Raum gelegt.
+ * Bilder gibt es [hier](/http://db.tt/pT7e09yC)
+ * Es handelt sich dabei um den Raum der Krabbelgruppe.
+ * Eine Sofaecke kann ggf. eingerichtet werden.
+ * Demnächst werden wir die erste Rechnung für den aktuellen Raum erhalten. Die zuvor angeforderte Stundenliste der Nutzung wurde erstellt und der Sachbearbeiterin gesendet.
+ * Sobald diese Rechnung bezahlt wurde, werden wir uns mit dem Jugendzentrum über einen Raumwechsel, den kosten, etc. unterhalten.
+* Raki Wiki Website
+ * Aaron hat einen sehr aufschlussreichen Vortrag über unsere Website gehalten.
+ * Die Installation der Tools, unter Ubuntu, um am Raki-Kern arbeiten zu können, gestaltete sich jedoch als eine größere Herausforderung.
+* Ausführlicher Bericht zu Martins Qualifikation beim Facebook Hacker Cup 2012
+* WLAN und Internet waren verfügbar.

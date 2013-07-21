@@ -1,0 +1,70 @@
+## Einleitung
+* Kommunikation mit anderen macht es einfacher
+* Selbstdarstellung
+* facebook, twitter, identi.ca
+* Hat viele Lücken und Macken
+
+## Vorteile
+* Was früher "bla bla" war, landetet heute in Twitter
+* Tags: "Echtzeit Google", aktuelle Trends werden kostenlos getagged
+* Sich selbst beobachten was andere über einen schreiben/denken
+* Verfolgen wie ein Produkt bei den Usern ankommt (mentioning)
+* Statusmeldungen über Twitter
+* Schuhe die bie jedem Schritt twittern
+* Blumentopf twittert wenn er gegossen
+* Oper die aus Twitternachrichten besteht
+* Big Ben, Dom, Radiowecker
+
+## Nachteile
+* Total belangloses wird getwittert
+* Es gibt keinen Client der ordentlich filtert, bessere Filterung!
+* Sortierung des Newsfeeds auf Facebook nicht ersichtlich
+* Shortlinks beschissen, da man wissen will worauf man klickt (Abhilfe: Tools zur Linkauflösung)
+* Twitter erhebt Urheberrecht auf Tweets
+* API sehr restriktiv. Nachteil?
+* 140 Zeichen zu wenig ... 200 minimum
+* Verknüpfung von verschiedenen Diensten: Antwort evtl. im "falschen" Dienst
+* Daten sammeln, unfreiwillige offenbarung von Geheimnissen, Nutzer gehen viel
+  leichtsinniger mit Microblogging um.
+
+## Erfolg
+* Handymarkt pushed Twitter/Facebook
+
+## Techniken
+* Microblogging (140 Zeichen)
+* soup.io, facebook (Media) (One Way Communication)
+* Google Latitude (Aktuellen Standpunkt publizieren)
+* foursquare
+* Blog (mehr Qualität)
+
+### Abgrenzung
+* Stumble Upon, digg, yigg
+* jabber
+
+### "Benötigte" Tools
+* Linkverkürzer -> Need more research, results ins Wiki!
+* TweetPic (Bild-Extension für Twitter)
+* Weitere Extension: Antworten auf spezifischen Tweet (nicht ganz klar)
+* Verknüpfung facebook<->twitter intelligenter machen (FB-App)
+
+## Implementierung: identica
+* Offene, implementierte standards, Open Source
+* Mehr Features wie Twitter
+* pidgin hat schon plugin drin
+* Statistik: Wer verwendet was?
+
+## Thesen
+* Twitter/Microblogging löst jabber/icq/irc ab, da einfacher.
+
+## Ideen für Verbesserung
+* Eine eindeutige "Kontaktstelle", an die man eine Nachricht schicken kann.
+  Der Empfänger definiert dann, wo er es einsortieren will.
+
+## Spam
+* Twitter sehr gut spambots rauszufiltern
+* Botnetze über twitter steuern
+* Follow/unfollow nerv-Mails
+* Spammer kann man melden
+* Trending Topics erzeugen mit tausenden von Bots
+* Mit Hashtag in Trending Topics reinkommen
+* Facebook: Einer kann das System kippen (special permissions)

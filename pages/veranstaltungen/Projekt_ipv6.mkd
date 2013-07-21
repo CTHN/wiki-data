@@ -1,0 +1,11 @@
+### Themen für den ersten Abend
+* v6 Grundlagen
+* Addressierung
+* Aufbau eines Testnetzwerks
+* (un)Regelmäßige Treffen, evtl. Projektgruppe? (könnte man natürlich auch ne übergeordnete Projektgruppe für Netzwerkthemen ins Leben rufen, je nachdem wie die Anzahl an interessenten aussieht)
+ * [znag](/user/znag) hat da generell interesse
+ * [Mezzo](/user/mezzo) hätte da auch Interesse
+ * [otih](/user/otih) hat Interesse
+
+### Links
+[Internet Society(ISOC) IPv6 FAQ](/http://www.isoc.org/internet/issues/ipv6_faq.shtml)

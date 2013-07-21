@@ -1,0 +1,25 @@
+## CCCamp 2011 
+
+Das Chaos Communication Camp fand vom 10. - 14.08.2011 in Finowfurt (bei Berlin) statt. Im CTHN Village waren dabei otih, znag, fu86, feitel, skyy, TabTwo, gopher und juna.
+
+
+*Das Camp im Überblick*
+![Embedded image](/images/Luftbild.png)
+~Bildquelle: berlinVR.de~
+
+
+![Embedded image](/images/Printing.jpg)
+
+
+*CTHN Snake auf dem r0cket*
+![Embedded image](/images/r0cket.jpg)
+
+*Lichteffekte bei Nacht*
+![Embedded image](/images/zauberwald.jpg)
+![Embedded image](/images/hangar.jpg)
+![Embedded image](/images/leds.jpg)
+
+
+Organistation und Weiteres:
+* https://wiki.sickos.org/Events/4th%20Chaos%20Communication%20Camp 
+* http://events.ccc.de/camp/2011/wiki/Chaostreff_Heilbronn

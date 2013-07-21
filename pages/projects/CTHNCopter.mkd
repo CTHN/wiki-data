@@ -1,0 +1,30 @@
+## Allgemein
+
+Ein kleiner HexaCoper, nicht viel größer als eine Handfläche.
+
+
+## Features
+* Klein und leicht
+* Einfach nachzubauen (von den SMD-Bauteilen abgesehen)
+* Steuerung per Bluetooth und App (Android)
+* Firmware-Update per Bluetooth
+
+
+## Bilder
+
+Die erste Version der Platine. An dieser werden alle weiteren Komponenten angebracht.
+![Embedded image](/images/IMG_20120731_134032_small.jpg)
+
+Die aktuelle Optik der Platine mit allen benötigten Komponenten.
+![Embedded image](/images/IMG_20120731_200851_small.jpg)
+
+
+
+## Repository
+
+Auf [GitHub](/https://github.com/CTHN/CTHNCopter) liegt das Projekt-Repository.
+
+## Projekt-Fortschritt
+
+[klaute's Blog](/http://klautesblog.blogspot.com)
+

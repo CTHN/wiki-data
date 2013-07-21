@@ -1,0 +1,24 @@
+## Etablierte oder abgeschlossende Projekte
+
+Im Laufe der Zeit haben sich einige Projekte angesammelt, die im Rahmen des CTHN komplett oder teilweise entstanden sind. Einige davon werden regelmäßig gepflegt und weitergeführt, andere haben bereits die Projektphase abgeschlossen.
+
+* [Raki](/http://github.com/ydkn/raki) ([Bug-Tracker](/https://github.com/ydkn/raki/issues)) (Die Grundlage dieser Webseite.)
+* [Buch des Monats](/Buch_des_Monats) (Jeden Monat eine Empfehlung von unserem Buchexperten [mezzomix](/user/mezzo).)
+* [3x3x3 LED Cube](/Embedded](/Embedded) (Sammlung elektronischer Bastelprojekte)
+ * [projects/LEDCube)
+ * [Fnordlicht](/projects/Fnordlicht) (Fertig. Komponente für XFD?)
+ * [CTHNCopter - A very small Hexacopter](/projects/CTHNCopter)
+* [Hacker Space (Raumfindung)](/Minecraft](/Minecraft) (Teh one and only!1)
+* [projects/Raumfindung) (Zur Zeit im Olga-Zentrum)
+
+## Incubator
+
+Wir treffen uns in regelmäßigen Abständen (alle zwei Wochen), um kleine und auch größere Projekte umzusetzen. Die Ideen dazu kommen meist aus den Gesprächen der [monatlichen Treffen](/treffen/Main).
+
+* [3x3x3 LED Cube](/projects/LEDCube)
+* ([QRCode Graffiti](/projects/Graffiti))
+* [Lord Vetinari's Clock](/projects/Clock)
+
+## Ideenpool
+
+Du hast eine Idee für ein zukünftiges Projekt, füge es einfaach [dieser Liste](/projects/incubator) hinzu.

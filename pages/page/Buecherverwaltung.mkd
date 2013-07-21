@@ -1,0 +1,12 @@
+Einige CTHN Mitglieder sind immer noch auf der Suche nach der (fast) perfekten Bücherverwaltungsssoftware. Schön wäre eine Mischung aus [Lovelybooks.de](/http://www.lovelybooks.de/) und [Delicious Library](/http://www.delicious-monster.com/).
+
+
+Wunschliste:
+
+
+* einfacher Import/Export diverser Formate
+* gute Anbindung an (freie) Webservice für Metadaten
+* Browserbasiert mit der Möglichkeit zur Offlinenutzung
+
+
+...to be continued...

@@ -1,0 +1,77 @@
+Auf dieser Seite werden die möglichen Optionen bzw. Szenarien durchgespielt, um einen gemeinsamen Raum für den cthn zu finden. Dies ist eine Brainstorming-Seite, es sind also Beiträge jeglicher Art erwünscht.
+
+
+## Namen für den Raum
+
+* Blinken Room
+* The Incubator
+* e-Hive, The Hive
+* cthn-base
+* h(n)ack
+* HackN
+* CRHN - Chaos Room Heilbronn
+* NOP, LSR, BSET oder was anderes [davon](/http://en.wikipedia.org/wiki/Atmel_AVR_instruction_set).
+* Nerdmine (Anspielung auf die Salzbergwerke, darf ja gerne was mit regionalem Bezug sein)
+* Salt & Tinker
+* (kalte) Lötstelle
+* Chaos Tanke, Computer Tankstelle
+
+## Für was brauchen wir einen Raum?
+
+* Regelmäßige und auch unregelmäßige Treffen zum Diskutieren oder planen oder einfach nur mal ne Runde Minecraft spielen oder die neusten Sony-Hacks zu bewerten :)
+* Gemeinsame Projekte (Elektronik, Programmierung) planen und auch umsetzen. Dies können auch Projekte sein, die länger als einen Tag dauern.
+* Mehr Präsenz -> Mehr Mitglieder
+* [Projektideen-Brutkasten](/projects/incubator)
+* Standort für einen gemeinsamen 3D Drucker, Fräsmaschine, Lasercutter, ...
+
+## Was sind die Voraussetzungen für einen Raum?
+
+* Strom
+* Heizung
+* Internet
+* Sanitäre Anlagen
+* Tische und Stühle mit ausreichend Platz für mehrere Personen
+* Abschließbarer Bereich (Schrank o.ä.)
+* optional:
+ # Verein (Rechtsfähige Person), kommt auf die tatsächlichen Gegebenheiten an.
+ # Versicherung, kommt auch auf die tatsächlichen Gegebenheiten an.
+ # Sofas und Sessel, kommt auf die verfügbaren Räumlichkeiten und dessen Fläche an.
+
+## Geld
+
+Übernimmt [Bea](//user/Bea). Verteilung z.B. über [Wunschliste ist hier](/http://www.iou.ch/](/http://www.iou.ch/)
+
+Die [page/need) zu finden.
+
+
+## Mögliche Optionen (Kommentare als Unterpunkte)
+
+* *[Olga Jugendzentrum](/http://olga.heilbronner-jugendhaus.de/) => Mike hat mit denen telefoniert und sich einen Antrag zusenden lassen.* Diese Option werden wir nun für den Anfang nutzen (Beschlossen beim Juli-Treffen 2011). Mike und Klaute werden das terminlich abstimmen.
+
+* Das ehemalige Stereo Total in der [Happelstraße 29](/http://de.wikipedia.org/wiki/Haus_Happelstra%C3%9Fe_29_%28Heilbronn%29) in Heilbronn. Unter den Räumlichkeiten befindet sich noch eine Disco und auch sonst scheint das denkmalgeschützte Gebäude recht gut geeignet zu sein.
+* Kooperation mit dem [Klubsofa](/http://www.klubsofa.net/), nach deren Umzug. Die Nutzung des aktuellen Klubsofas ist bereits jetzt, unter Absprache der Rahmenbedingungen, möglich. (Aktuell nicht interessant, da der Umzug zwar geplant aber noch nicht konkret ist)
+* Eigenen Verein [gründen](/http://www.akademie.de/fuehrung-organisation/recht-und-finanzen/tipps/recht/e-v-leitfaden-verein-gruenden.html), Raum durch Mitgliedsbeiträge/Spenden finanzieren. (Vorerst eine unwichtige Option)
+* Symbiose mit den Heilbronner Piraten (die auch auf Raumsuche sind)
+ ~**Da der CCC unparteiisch ist, sollte auch beim CTHN hier nicht der Eindruck vermittelt werden. Eine Raumkooperation ist theoretisch möglich, jedoch muss die strikte Trennung nach Außen kommuniziert werden!**~
+* Dem [CC86](/http://www.cc86.org/) beitreten. (Keine Option, die weiterverfolgt wird)
+* Vitamin B: Leerstehenden Raum nutzen für Gegenleistung (Netzwerk einrichten o.ä.). (Hat sich noch nichts ergeben)
+* Bei der Stadt anfragen zwecks Zuschuss bzw. Bereitstellung.
+* Einen Raum in einer Kirche, Schule oder anderer öffentlicher Einrichtung für eine bestimmte Zeit/Tag in der Woche.
+* Bei der [ARKUS gGmbH](/http://www.arkus-heilbronn.de/) anfragen.
+* Vereinsraum von hochtoener
+
+##Offene Fragen
+# Für wieviele Personen muss der Raum ausgelegt sein?
+# Reicht uns ein einziger Raum?
+# Welche Kosten kommen auf uns zu?
+ * Strom
+ * Miete/Mietbeteiligung
+ * Heizungskosten
+ * Wasser/Abwasser
+ * Müllgebühren
+ * Steuern?
+ * Versicherung (sicher sinnvoll)
+ * Internet
+ * evtl. Hardware für Infrastruktur etc.
+ * Umbau-/Renovierungsarbeiten
+# Wer übernimmt die Verantwortung, für Raum/Einrichtung etc., falls kein Verein gegründet wird?

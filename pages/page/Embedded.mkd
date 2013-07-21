@@ -1,0 +1,49 @@
+##Arduino & AVR
+
+### Projekte
+* [CTHNCopter - A very small Hexacopter](/projects/CTHNCopter)
+* [Fnordlicht](/projects/Fnordlicht)
+* [3x3x3 LED Cube](/projects/LEDCube)
+
+## Links
+* http://arduino.cc/
+* http://www.freeduino.de/
+* http://blog.makezine.com/ => Suche nach "Arduino" zeigt einige witzige Einsatzmöglichkeiten
+* http://fritzing.org/projects/ - Basteln auf Basis Arduino
+* http://www.cooking-hacks.com/ - Nette Arduino-Addons
+* http://sproutboard.com/ - Serverrack-Monitoring mit Arduino
+
+Buch: [Arduino - Physical Computing für Bastler, Designer und Geeks](/http://www.lovelybooks.de/autor/Manuel-Odendahl/Arduino-Physical-Computing-für-Bastler-Designer-und-Geeks-404199108-w/)
+Doku (Film): http://arduinothedocumentary.org/
+
+###Links
+
+* http://arduino.cc/
+* http://www.freeduino.de/
+* http://blog.makezine.com/ => Suche nach "Arduino" zeigt einige witzige Einsatzmöglichkeiten
+* http://fritzing.org/projects/ - Basteln auf Basis Arduino
+* http://www.cooking-hacks.com/ - Nette Arduino-Addons
+* http://sproutboard.com/ - Serverrack-Monitoring mit Arduino
+* Buch: [Arduino - Physical Computing für Bastler, Designer und Geeks](/http://www.lovelybooks.de/autor/Manuel-Odendahl/Arduino-Physical-Computing-für-Bastler-Designer-und-Geeks-404199108-w/)
+* Doku (Film): http://arduinothedocumentary.org/
+
+
+##mbed - Rapid Prototyping for Microcontrollers
+
+### Projekte
+* keine...
+
+###Links
+* [mbed](/http://mbed.org/)
+* [mbed bestellen](/http://mbed.org/order/)
+
+
+## r0ket
+
+### Projekte
+
+* Battery: Ein grafischer Ersatz für Voltage [battery.c](/https://paste42.de/1881/battery.c) (juna, fu86, feitel)
+
+### Links
+
+* http://r0ket.badge.events.ccc.de/

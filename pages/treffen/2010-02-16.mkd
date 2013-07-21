@@ -1,0 +1,13 @@
+#Mögliche Themen
+
+* [CAcert](/projects/CACert) Signing
+* [GnuPG](/projects/GnuPG) Signing ([GnuPG Signing Anmeldung](/treffen/2010-02-16))
+* Fnordlicht
+ * Verbindliche Bestellung
+ * Raum/Zeit/Ort/Veröffentlichen
+* Lightning Talks festmachen?
+* Alte Handys (Bea)
+* Chemnitzer Linuxtage (Wer geht mit, Fahrgemeinschaft?)
+* PMon release!!11 ?
+* Wiki Zugangsdaten?
+* Nächstes Event/Battle? Themen?

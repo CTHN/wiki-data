@@ -1,0 +1,11 @@
+#VNC für Präsentationen nutzen
+Unter Linux am besten x11vnc nutzen und wie folgt starten
+*x11vnc -shared -passwd geheim -viewpasswd offen*
+Hier wird dann auf dem Client nach Absetzen xvncviewer $ziel-IP nach einem Passwort gefragt. Je nach Eingabe kann man dann den Server fernsteuern oder nur zuschauen.
+
+Alternativ, bzw. einfach wäre
+*x11vnc -shared -viewonly*
+Hier wird dann auch dem Client kein Passwort abgefragt.
+
+Interessant könnte auch die Reflektor-Funktion sein:
+http://www.karlrunge.com/x11vnc/faq.html#faq-reflect

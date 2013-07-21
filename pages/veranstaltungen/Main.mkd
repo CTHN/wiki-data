@@ -1,0 +1,38 @@
+##Gemeinsame Veranstaltungen und Treffen auf Events
+
+
+
+*2011*
+----
+* 2011-08-21: FrOSCon 6 in Bonn
+* 2011-08-10/14: [Chaos Communication Camp 2011](/camp2011) - 10|11|12|13|14th August 2011 at Finowfurt (near Berlin), Germany
+* 2011-06-18: Tag der offenen Tür im [Mezzo](/shack](/shack)
+
+*2010*
+----
+* 2010-08-10/13: Eth0 -an outdoor computer event intended to bring people with differing computer-related interests and skills together for an informative and fun time
+* 2010-KW 31/32: Intergalaktische Club Mate Party 5 - icmp5 , das "kleine" Outdoor Camp für Hacker
+*2009*
+----
+* 2009-12-27 bis 30.: 26c3 (mit [user/mezzo), [TabTwo](/user/TabTwo), [Nougad](/user/Nougad), [Aaron](/user/Aaron), [Juna](/user/Juna), [Martin](/user/f0i))
+
+
+##Vorträge und Präsentationen
+
+* 2010-04-13: [Lightning Talks 1](/Lightning_Talks_1)
+
+
+##Diskussionsrunden
+
+* 2011-02-22: [IPv6 - Einstieg und Erfahrungsaustausch](/Projekt_ipv6)
+* 2010-09-28: [Skriptsprachen Battle (Python vs. Ruby)](/Projekt_Brainstorming](/Projekt_Brainstorming)
+* 2010-02-03: [Zukunft von Mikroblogging](/Zukunft von Mikroblogging)
+* 2009-12-08: [Scriptsprachen_Battle)
+
+
+
+## Vorschläge/Wünsche/Ideen für außerplanmäßige Treffen
+* Einen weiteren Löt/Fnordlicht-Workshop. Da ja mittlerweile jeder Zweite mit einem Fnordlicht ausgestattet ist und auch schon einige Basteleien damit angestellt wurden (Klautes VLC-Ambilight-Plugin, MBed-Bibliothek, Reihenschaltung, Fnordlicht-Controller, ...), wäre es schön noch ein gemeinsames Projekt damit zu machen.
+* Eine weitere Minecraft-Session
+* Raki Workshop: Wie funktioniert das System, wie kann ich Seiten in GIT ändern, wie schreibe ich ein Plugin
+* Experimenta Heilbronn

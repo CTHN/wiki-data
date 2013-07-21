@@ -1,0 +1,8 @@
+## Projekte im CTHN
+
+* [Fnordlicht](/projects/Fnordlicht)
+* [Minecraft](/page/Minecraft)
+* [Embedded](/page/Embedded)
+
+##Kontakt
+xmpp: beatricef @ jabber.ccc.de
