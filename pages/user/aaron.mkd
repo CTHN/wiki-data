@@ -1,6 +1,7 @@
 ![Embedded image](/images/avatar.jpg)
 
 *Aaron Müller*
+
 *(30, Karlsruhe, Software Engineer)*
 
 
@@ -8,15 +9,19 @@
 Astronomie, Weltraum, SciFi, Elektronik, AVR, basteleien, Linux, OSX, programmieren, Sprachen, Web, Mobile Geräte, Ruby, JavaScript, Rails, Lisp, Clojure, eBooks, lesen, schreiben, OSM, GeoCaching, StreetArt, Grafitti, Stencils, Slacklining, Camping, grillen, laufen, Tischkicker, Vim, Security, 3D Drucker und so einiges mehr.
 
 
+## Kontakt
+https://aaron-mueller.de/
+xmpp: aaron @ jabber.ccc.de
+
+
 ## Projekte, an denen ich mitwirke
 * [Fnordlicht](/projects/Fnordlicht)
 * [Minecraft](/veranstaltungen/Minecraft)
 * [Raki-Wiki Design](/projects/Wiki)
 * [Embedded Projects](/page/Embedded) (r0ket, AVR, Fnordlicht)
+* [cthn.de Seite](/projects/cthn_seite)
+
+
+## Alte Projekte
 * [Das Raumproblem](/projects/Raumfindung)
-* [cthn.de][/projects/cthn_seite]
 
-
-## Kontakt
-https://aaron-mueller.de/
-xmpp: aaron @ jabber.ccc.de
