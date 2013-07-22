@@ -1,14 +1,14 @@
 # Die CTHN Webstie
-Die Webseite wurde ursprünglich mit dem [Wikisystem Raki](https://github.com/CTHN/raki) umgesetzt. Dies war eine Eigenentwicklung von ydkn (Florian Schwab). Die Architektur von Raki ist super, allerdings gab es ein paar PErformance-Probleme. Diese wurden auch teilweise behoben, doch für die meisten war das System noch zu wackelig und kompliziert. Auch war nicht klar, wie man etwas am Inhalt ändern kann. Aus diesem Grund wurde der komplette Content nach Markdown konvertiert und ein simples Script geschrieben, das daraus HTML Seiten generiert. Wie dieses System funktioniert und wie jeder selbst Anpassungen daran vornehmen kann wird hier beschrieben.
+Die Webseite wurde ursprünglich mit dem [Wikisystem Raki](https://github.com/CTHN/raki) umgesetzt. Dies war eine Eigenentwicklung von [ydkn](https://github.com/ydkn). Die Architektur von Raki ist super, allerdings gab es ein paar Performance-Probleme. Diese wurden auch teilweise behoben, doch für die meisten war das System noch zu wackelig und kompliziert. Auch war nicht klar, wie man etwas am Inhalt ändern kann. Aus diesem Grund wurde der komplette Content nach Markdown konvertiert und ein simples Script geschrieben, das daraus HTML Seiten generiert. Wie dieses System funktioniert und wie jeder selbst Anpassungen daran vornehmen kann wird hier beschrieben.
 
 ## Wie funktioniert das denn jetzt?
 Das Repository [wiki-factory](https://github.com/CTHN/wiki-factory) ist auf dem Server ausgecheckt. Bei jedem Commit im [wiki-data](https://github.com/CTHN/wiki-data) Repository wird das Script [scripts/generate-pages.rb](https://github.com/CTHN/wiki-factory/blob/master/scripts/generate_pages.rb) aufgerufen (Post Commit Hook). Dieses Script generiert aus den *.mkd Dateien, den Bildern und etwas [Boilerplate Code](https://github.com/CTHN/wiki-factory/tree/master/assets) die Seiten für cthn.de. Wer es genau wissen will, kann sich gerne das Script und den assets-Ordner ansehen, das Script ist nur 30 Zeilen lang.
 
 
 ## Content bearbeiten
-Um nun den Inhalt der Seite zu ändern, genügt es die Markdown-Files im [wiki-data](https://github.com/CTHN/wiki-data) Repository zu bearbeiten, commiten und zu pushen. Am einfachsten geht das direkt auf Github; hier gibt es sogar eine Vorschaufunktion. Hier einfach die entsprechende Datei auswählen und auf **edit** klicken. Der Inhalt der Datien ist Markdown.
+Um nun den Inhalt der Seite zu ändern, genügt es die Markdown-Files im [wiki-data](https://github.com/CTHN/wiki-data) Repository zu bearbeiten, commiten und zu pushen. Am einfachsten geht das direkt auf Github; hier gibt es sogar eine Vorschaufunktion. Hier einfach die entsprechende Datei auswählen und auf **edit** klicken. Der Inhalt der Dateien ist Markdown.
 
-Interne Links und Bilder werden immer mit dem relativen Pfad gemacht sowie mit einem führenden Slash versthen. Bilder müssen einen eindeutigen Namen im Verzeichnis **/images/** haben.
+Interne Links und Bilder werden immer mit dem relativen Pfad gemacht sowie mit einem führenden Slash versehen. Bilder müssen einen eindeutigen Namen im Verzeichnis **/images/** haben.
 
      [Ein Link](/projects/ledcube)
      ![Ein Bild](/images/blinkender_cube.gif)
