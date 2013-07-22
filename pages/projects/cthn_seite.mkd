@@ -1,1 +1,20 @@
-comming soon, stay tuned.
+# Die CTHN Webstie
+Die Webseite wurde ursprünglich mit dem [Wikisystem Raki](https://github.com/CTHN/raki) umgesetzt. Dies war eine Eigenentwicklung von ydkn (Florian Schwab). Die Architektur von Raki ist super, allerdings gab es ein paar PErformance-Probleme. Diese wurden auch teilweise behoben, doch für die meisten war das System noch zu wackelig und kompliziert. Auch war nicht klar, wie man etwas am Inhalt ändern kann. Aus diesem Grund wurde der komplette Content nach Markdown konvertiert und ein simples Script geschrieben, das daraus HTML Seiten generiert. Wie dieses System funktioniert und wie jeder selbst Anpassungen daran vornehmen kann wird hier beschrieben.
+
+## Wie funktioniert das denn jetzt?
+Das Repository [wiki-factory](https://github.com/CTHN/wiki-factory) ist auf dem Server ausgecheckt. Bei jedem Commit im [wiki-data](https://github.com/CTHN/wiki-data) Repository wird das Script [scripts/generate-pages.rb](https://github.com/CTHN/wiki-factory/blob/master/scripts/generate_pages.rb) aufgerufen (Post Commit Hook). Dieses Script generiert aus den *.mkd Dateien, den Bildern und etwas [Boilerplate Code](https://github.com/CTHN/wiki-factory/tree/master/assets) die Seiten für cthn.de. Wer es genau wissen will, kann sich gerne das Script und den assets-Ordner ansehen, das Script ist nur 30 Zeilen lang.
+
+
+## Content bearbeiten
+Um nun den Inhalt der Seite zu ändern, genügt es die Markdown-Files im [wiki-data](https://github.com/CTHN/wiki-data) Repository zu bearbeiten, commiten und zu pushen. Am einfachsten geht das direkt auf Github; hier gibt es sogar eine Vorschaufunktion. Hier einfach die entsprechende Datei auswählen und auf **edit** klicken. Der Inhalt der Datien ist Markdown.
+
+Interne Links und Bilder werden immer mit dem relativen Pfad gemacht sowie mit einem führenden Slash versthen. Bilder müssen einen eindeutigen Namen im Verzeichnis **/images/** haben.
+
+     [Ein Link](/projects/ledcube)
+     ![Ein Bild](/images/blinkender_cube.gif)
+     
+## Schreibrechte
+Jeder der Mitglied des Projekts [wiki-data](https://github.com/CTHN/wiki-data) ist, kann Daten verändern. Wer noch keinen Zugang hat und gerne mithelfen möchte, kann sich gerne an einen der Mitglieder wenden.
+
+## Hacker friendly environment
+Manchmal möchte man dann aber doch mal irgend was dynamisches einbinden. Beispielsweise einen Kalender einbinden oder Spielereien mit Javascript machen. Hierzu kann jederzeit eine Datei mit der Endung **.html** angelegt werden. Diese wird dann beim generieren der Files direkt kopiert und nicht als Markdown File interpretiert. Die Navigation, das Layout oder die Hauptseite ist beispielsweise so gemacht. Als "Frameworks" stehen [JQuery](http://jquery.com/) und [Twitter Bootstrap](http://twitter.github.io/bootstrap/) zur Verfügung. Ähnliches kann mit der Endung **.php** gemacht werden, wer PHP Scripte ausführen will. Das sollte für die meisten Bedürfnisse genügen.
