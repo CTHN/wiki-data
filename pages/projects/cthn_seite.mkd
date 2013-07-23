@@ -1,4 +1,4 @@
-# Die CTHN Webstie
+# Die CTHN Webseite
 Die Webseite wurde ursprünglich mit dem [Wikisystem Raki](https://github.com/CTHN/raki) umgesetzt. Dies war eine Eigenentwicklung von [ydkn](https://github.com/ydkn). Die Architektur von Raki ist super, allerdings gab es ein paar Performance-Probleme. Diese wurden auch teilweise behoben, doch für die meisten war das System noch zu wackelig und kompliziert. Auch war nicht klar, wie man etwas am Inhalt ändern kann. Aus diesem Grund wurde der komplette Content nach Markdown konvertiert und ein simples Script geschrieben, das daraus HTML Seiten generiert. Wie dieses System funktioniert und wie jeder selbst Anpassungen daran vornehmen kann wird hier beschrieben.
 
 ## Wie funktioniert das denn jetzt?
