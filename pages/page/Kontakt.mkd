@@ -2,12 +2,12 @@ Die Kommunikation innerhalb des Chaostreff Heilbronn findet unter anderem über 
 
 
 ## Anmelden
-Um sich auf der Mailingliste anzumelden, gehe auf die [Übersichtsseite](/https://lists.schokokeks.org/mailman/listinfo.cgi/cthn) und trage dort deine E-Mail Adresse ein. Eine E-Mail zur Bestätigung der Anmeldung wird an die angegebene Adresse gesendet. Alternativ kann auch einfach eine Mail mit dem Betreff "*subscribe*" an [cthn-subscribe@lists.cthn.de](/Mailto:cthn-subscribe@lists.cthn.de) gesendet werden. Danach kann man direkt loslegen, eine Freischaltung ist nicht erforderlich.
+Um sich auf der Mailingliste anzumelden, gehe auf die [Übersichtsseite](https://lists.schokokeks.org/mailman/listinfo.cgi/cthn) und trage dort deine E-Mail Adresse ein. Eine E-Mail zur Bestätigung der Anmeldung wird an die angegebene Adresse gesendet. Alternativ kann auch einfach eine Mail mit dem Betreff "*subscribe*" an [cthn-subscribe@lists.cthn.de](Mailto:cthn-subscribe@lists.cthn.de) gesendet werden. Danach kann man direkt loslegen, eine Freischaltung ist nicht erforderlich.
 
 
 ## Mitmachen
 
-Um sich an einer Diskussion zu beteiligen, schreibe eine E-Mail an [cthn@lists.cthn.de](/Mailto:cthn@lists.cthn.de) senden.
+Um sich an einer Diskussion zu beteiligen, schreibe eine E-Mail an [cthn@lists.cthn.de](Mailto:cthn@lists.cthn.de) senden.
 
 
 *BITTE BEACHTEN:* Diese Mailingliste leitet nur E-Mails weiter, die von einem Mitglied der Liste verfasst werden. E-Mails von bisher unbekannten Absendern werden zurückgehalten und müssen manuell freigeschalten werden. Es lohnt sich daher, *sich vorher auf der Liste einzutragen*.
