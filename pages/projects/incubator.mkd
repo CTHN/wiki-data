@@ -26,7 +26,7 @@ Eine wachsende und unsortierte Liste an Dingen, die wir im Incubator machen oder
 * Fnordlicht Teil 2: "Es leuchtet weiter"
 * XFD (Xtreme Feedback Device) mit Einfluss auf den Response des Users: Universelles Alarmierungsdevice (Treffen nächste Woche (28.09.2010, 19:00 Uhr im k2acht für Brainstorming) (aaron, kai)
  - Mögliche Basishardware:
-  * [Buch des Monats](/http://www.lochraster.org/etherrape/](/http://www.lochraster.org/etherrape/)
+  * [Etherrape](http://www.lochraster.org/etherrape/](/http://www.lochraster.org/etherrape/)
   * [http://www.acmesystems.it/?id=FOXG20](/http://www.acmesystems.it/?id=FOXG20)
   * [http://www.spida.net/projects/hardware/usbnotify/index.de.html](/http://www.spida.net/projects/hardware/usbnotify/index.de.html)
 * Mikrowelle mit Ofen-Funktion zum SMD backen verwenden
