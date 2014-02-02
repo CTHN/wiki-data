@@ -39,11 +39,11 @@ Eine wachsende und unsortierte Liste an Dingen, die wir im Incubator machen oder
 
 ## Diskutieren
 
-* [page/Buch_des_Monats)
+* [Buch_des_Monats](http://cthn.de/projects/buch_des_monats)
 * [Nerdig Talking](/https://twitter.com/#!/mknittig/status/93970594349068288)
 * Team für Hacking Contest auf dem LinuxTag
 
-## Anleitungen/Erklärungen/Tororials/Workshops
+## Anleitungen/Erklärungen/Tutorials/Workshops
 
 * Eagle CAD, freerouting.net (Kai)
 * KiCAD (kennt sich jemand damit aus?)
