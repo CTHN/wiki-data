@@ -29,10 +29,10 @@
 * Juni: [Ernest Cline "Ready Player One"](http://www.lovelybooks.de/autor/Ernest-Cline/Ready-Player-One-885602889-w/)
 * Juli: [Markus Beckedahl "Die digitale Gesellschaft"](http://www.lovelybooks.de/autor/Markus-Beckedahl/Die-digitale-Gesellschaft-950641212-w/)
 * August: [Dirk von Gehlen "Mashup"](http://www.lovelybooks.de/autor/Dirk-von-Gehlen/Mashup-950293232-w/)
-* September: [Andreas Eschbach "Herr aller Dinge"](http://www.lovelybooks.de/autor/Andreas-Eschbach/Herr-aller-Dinge-613185498-w/)
-* Oktober: [Passig/Lobo "Internet - Segen oder Fluch?"](http://www.lovelybooks.de/autor/Kathrin-Passig/Internet-Segen-oder-Fluch-989584306-w/)
+* September: [Konrad Lischka "Spielplatz Computer"](http://www.lovelybooks.de/autor/Konrad-Lischka/Spielplatz-Computer-142819380-w/)
+* Oktober: [Jörg Luibl "Spielefresser, Biomonster & Fanboys"](http://www.lovelybooks.de/autor/Jörg-Luibl/Spielefresser-Biomonster-Fanboys-143311130-w/)
 * November: [Bartmann "Durchstarten mit Raspberry Pi"](http://www.lovelybooks.de/autor/Erik-Bartmann/Durchstarten-mit-Raspberry-Pi-974816231-w/)
-* Dezember: [Eschbach "Herr aller Dinge"](http://www.lovelybooks.de/autor/Andreas-Eschbach/Herr-aller-Dinge-613185498-w/)
+* Dezember: [Andreas Eschbach "Herr aller Dinge"](http://www.lovelybooks.de/autor/Andreas-Eschbach/Herr-aller-Dinge-613185498-w/)
 
 2011
 
