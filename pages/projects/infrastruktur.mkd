@@ -1,9 +1,23 @@
-## Die CTHN Webseite
+## Web Services
 
+### cthn.de
 * Team: fu86, otih
 * <a href="http://cthn.de/projects/cthn_www">HowTo - cthn Seite</a>
+
+### pad.cthn.de
+* Team: otih
+* Software: etherpad
+* status: reinstallation ongoing
 
 ## OpenGPG Keyserver
 
 * Team: otih
 * <a href="http://sks.cthn.de">sks.cthn.de</a>
+
+## NTP
+* Team: -
+* Statrum0: DCF77, GPS
+* status: planning
+
+## Mailinglist
+* Hosted: <a href="https://www.schokokeks.org/">schokokeks.org</a>
