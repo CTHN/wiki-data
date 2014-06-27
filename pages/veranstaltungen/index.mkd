@@ -1,6 +1,19 @@
 ##Gemeinsame Veranstaltungen und Treffen auf Events
 
 
+*2014*
+----
+
+* 18.04. - 21.04.2014 Easterhegg 2014 in Stuttgart
+* 03.05 - 04.05.2014 CCCMV Mannheim
+* 19.06. - 22.06. <a href="https://entropia.de/GPN14">GPN14</a>
+* 26.07. - 27.07. Themenworkshop zum Vernetzten Fahrzeug in Ulm
+* 07.-11.08.2014: ICMP7 in Münchsteinach
+* 05.09. - 07.09.2014 <a href="http://mrmcd.net/">MRMCD</a> in Darmstadt
+* 13.09. - 14.09.2014 <a href="https://doku.ccc.de/intern/Datenspuren">Datenspuren</a> in Dresden
+* 24.10. - 26.10.2014 <a href="http://hackover.de/">Hackover</a> in Hannover
+* 01.11. - 02.11.2014 <a href="https://zombiecon.de/">zombiecon</a> in Köln
+* 26.12. - 30.12.2014 31C3
 
 *2011*
 ----
