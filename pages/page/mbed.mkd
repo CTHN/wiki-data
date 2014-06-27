@@ -1,3 +1,0 @@
-###Links:
-* [mbed](/http://mbed.org/)
-* [mbed bestellen](/http://mbed.org/order/)

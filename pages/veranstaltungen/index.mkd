@@ -18,8 +18,9 @@
 *2011*
 ----
 * 2011-08-21: FrOSCon 6 in Bonn
-* 2011-08-10/14: [Chaos Communication Camp 2011](/camp2011) - 10|11|12|13|14th August 2011 at Finowfurt (near Berlin), Germany
-* 2011-06-18: Tag der offenen Tür im [Mezzo](/shack](/shack)
+* 2011-08-10/14: [Chaos Communication Camp 2011](veranstaltungen/camp2011) - 10|11|12|13|14th August 2011 at Finowfurt (near Berlin), Germany
+* 2011-06-18: Tag der offenen Tür im [Mezzo](/shack](veranstaltungen/shack)
+* 2011-12-28: [Dragons Everywhere im Shackspace](veranstaltungen/dragons-everywhere-shack2011)
 
 *2010*
 ----
@@ -27,20 +28,20 @@
 * 2010-KW 31/32: Intergalaktische Club Mate Party 5 - icmp5 , das "kleine" Outdoor Camp für Hacker
 *2009*
 ----
-* 2009-12-27 bis 30.: 26c3 (mit [user/mezzo), [TabTwo](/user/TabTwo), [Nougad](/user/Nougad), [Aaron](/user/aaron), [Juna](/user/Juna), [Martin](/user/f0i))
+* 2009-12-27 bis 30.: 26c3 (mit [user/mezzo), [TabTwo](user/TabTwo), [Nougad](user/Nougad), [Aaron](user/aaron), [Juna](user/Juna), [Martin](user/f0i))
 
 
 ##Vorträge und Präsentationen
 
-* 2010-04-13: [Lightning Talks 1](/Lightning_Talks_1)
+* 2010-04-13: Lightning Talks 1
 
 
 ##Diskussionsrunden
 
-* 2011-02-22: [IPv6 - Einstieg und Erfahrungsaustausch](/Projekt_ipv6)
-* 2010-09-28: [Skriptsprachen Battle (Python vs. Ruby)](/Projekt_Brainstorming](/Projekt_Brainstorming)
-* 2010-02-03: [Zukunft von Mikroblogging](/Zukunft von Mikroblogging)
-* 2009-12-08: [Scriptsprachen_Battle)
+* 2011-02-22: [IPv6 - Einstieg und Erfahrungsaustausch](veranstaltungen/Projekt_ipv6)
+* 2010-09-28: Skriptsprachen Battle (Python vs. Ruby)
+* 2010-02-03: [Zukunft von Mikroblogging](/veranstaltungen/Zukunft von Mikroblogging)
+* 2009-12-08: Scriptsprachen_Battle
 
 
 
