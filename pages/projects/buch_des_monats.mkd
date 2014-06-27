@@ -1,4 +1,11 @@
-2014
+Handerlesen und für gut befunden seit 2010 von Michael Reutter. Jeden Monat ein
+neues Buch aus seiner Sammlung zu den Themengebieten Netzkultur, Geektum,
+Computerspiele und Cyberpunk. Als CTHN-Projekt begonnen ist diese Bücherliste
+mittlerweile Anlaufstelle für so manchen Leser der nach neuem Stoff sucht.
+
+Eine Übersichtsseite mit allen Covern gibt es [hier](https://buchdesmonats.gridbag.net/).
+
+## 2014
 
 * Januar: [Karl Olsberg "Würfelwelt"](http://www.lovelybooks.de/autor/Karl-Olsberg/Würfelwelt-Ein-Minecraft-Roman-1054644236-t/)
 * Februar: [Dave Eggers "The Circle"](http://www.lovelybooks.de/autor/Dave-Eggers/The-Circle-1054838179-t/)
@@ -9,7 +16,7 @@
 * Juli: [Marc Elsberg "BLACKOUT"](http://www.lovelybooks.de/autor/Marc-Elsberg/BLACKOUT-Morgen-ist-es-zu-sp%C3%A4t-801811611-w/)
 
 
-2013
+## 2013
 
 * Januar: [Passig/Lobo "Internet - Segen oder Fluch"](http://www.lovelybooks.de/autor/Kathrin-Passig/Internet-Segen-oder-Fluch-989584306-w/)
 * Februar: [Mercedes Bunz "Die stille Revolution"](http://www.lovelybooks.de/autor/Mercedes-Bunz/Die-stille-Revolution-992377364-w/)
@@ -25,7 +32,7 @@
 * Dezember: [McKenzie Wark "Das Hacker-Manifest - A Hacker Manifesto"](http://www.lovelybooks.de/autor/McKenzie-Wark/Das-Hacker-Manifest-A-Hacker-Manifesto-145081610-w/)
 
 
-2012
+## 2012
 
 * Januar: [Ganz, Ohlig, Vollnhals "Hackerbrause - kurz & geek"](http://www.lovelybooks.de/autor/Ganz/Hackerbrause-kurz-geek-836913255-w/)
 * Februar: [Shumeet Baluja "Silicon Jungle"](http://www.lovelybooks.de/autor/Shumeet-Baluja/Silicon-Jungle-748741291-w/)
@@ -40,7 +47,7 @@
 * November: [Bartmann "Durchstarten mit Raspberry Pi"](http://www.lovelybooks.de/autor/Erik-Bartmann/Durchstarten-mit-Raspberry-Pi-974816231-w/)
 * Dezember: [Andreas Eschbach "Herr aller Dinge"](http://www.lovelybooks.de/autor/Andreas-Eschbach/Herr-aller-Dinge-613185498-w/)
 
-2011
+## 2011
 
 * Januar: [Matthias Becker "Datenschatten"](http://www.lovelybooks.de/autor/Matthias-Becker/Datenschatten-375551986-w/)
 * Februar: [Cory Doctorow "Little Brother"](http://www.lovelybooks.de/autor/Cory-Doctorow/Little-Brother-224419413-w/)
@@ -55,7 +62,7 @@
 * November: [Daniel Domscheit-Berg, Tina Klopp - "Inside WikiLeaks"](http://www.lovelybooks.de/autor/Daniel-Domscheit--Berg-/Inside-WikiLeaks-532707880-w/)
 * Dezember: [Klaus Raab - "Wir sind online - wo seid ihr?"](http://www.lovelybooks.de/autor/Klaus-Raab/Wir-sind-online-wo-seid-ihr-589478484-w/)
 
-2010
+## 2010
 
 * Oktober: [Charles Stross "Du bist tot"](http://www.lovelybooks.de/autor/Charles-Stross/Du-bist-tot-313822071-w/)
 * November: [Daniel Suarez "Daemon: Die Welt ist nur ein Spiel"](http://www.lovelybooks.de/autor/Daniel-Suarez/Daemon-Die-Welt-ist-nur-ein-Spiel-238972300-w/)
