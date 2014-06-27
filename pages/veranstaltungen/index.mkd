@@ -27,7 +27,7 @@
 * 2010-KW 31/32: Intergalaktische Club Mate Party 5 - icmp5 , das "kleine" Outdoor Camp für Hacker
 *2009*
 ----
-* 2009-12-27 bis 30.: 26c3 (mit [user/mezzo), [TabTwo](/user/TabTwo), [Nougad](/user/Nougad), [Aaron](/user/Aaron), [Juna](/user/Juna), [Martin](/user/f0i))
+* 2009-12-27 bis 30.: 26c3 (mit [user/mezzo), [TabTwo](/user/TabTwo), [Nougad](/user/Nougad), [Aaron](/user/aaron), [Juna](/user/Juna), [Martin](/user/f0i))
 
 
 ##Vorträge und Präsentationen

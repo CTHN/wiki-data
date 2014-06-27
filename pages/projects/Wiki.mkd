@@ -12,6 +12,6 @@ Diese Webseite ist unter folgendem [Github-Projekt](/https://github.com/aaronmue
 ## Contributors
 
 * [gopher](/user/gopher)
-* [Aaron](/user/Aaron)
+* [Aaron](/user/aaron)
 * [Fabian](/user/otih)
 
