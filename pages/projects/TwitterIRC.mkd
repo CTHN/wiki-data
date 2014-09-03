@@ -9,11 +9,11 @@ Wrapper um Twitter API
 ###Verwendung folgender API calls
 
 *Tweets versenden:*
-[http://dev.twitter.com/doc/post/statuses/update](/http://dev.twitter.com/doc/post/statuses/update)
+[http://dev.twitter.com/doc/post/statuses/update](http://dev.twitter.com/doc/post/statuses/update)
 
 
 *Tweets mit Hashtag empfangen:*
-Twitter Streaming API: [http://dev.twitter.com/pages/streaming_api_methods#track](/http://dev.twitter.com/pages/streaming_api_methods#track)
+Twitter Streaming API: [http://dev.twitter.com/pages/streaming_api_methods#track](http://dev.twitter.com/pages/streaming_api_methods#track)
 Beispiel:
 \pre
 curl -d "track=#hashtag" http://stream.twitter.com/1/statuses/filter.json -uuser:password
